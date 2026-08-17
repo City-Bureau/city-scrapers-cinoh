@@ -5,6 +5,7 @@ spider_configs = [
         "class_name": "CinohHamiltonCommissionSpider",
         "name": "cinoh_hamilton_commission",
         "agency": "Hamilton County Commission Meetings",
+        "agency_name": "Hamilton County Board of County Commissioners",
         "categories": [
             "Commission Meetings",
             "Public Hearings",
@@ -16,6 +17,7 @@ spider_configs = [
         "class_name": "CinohHamiltonBoardsCommissionsSpider",
         "name": "cinoh_hamilton_boards_commissions",
         "agency": "Hamilton County Boards & Commissions",
+        "agency_name": "Hamilton County Board of County Commissioners",
         "categories": ["Boards & Commissions"],
     },
 ]
