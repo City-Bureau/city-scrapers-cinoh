@@ -1,7 +1,6 @@
 import re
-from datetime import datetime
+from datetime import datetime, timezone
 from urllib.parse import unquote, urljoin
-from zoneinfo import ZoneInfo
 
 import scrapy
 from city_scrapers_core.constants import BOARD, COMMISSION, NOT_CLASSIFIED
@@ -44,7 +43,6 @@ class CinohHamiltonCountyMixin(
     agency = None
     categories = None
     timezone = "America/New_York"
-    tz = ZoneInfo(timezone)
 
     base_url = "https://www.hamiltoncountyohio.gov/"
     source_url = "https://www.hamiltoncountyohio.gov/calendar.php"
@@ -58,7 +56,7 @@ class CinohHamiltonCountyMixin(
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        now = datetime.now(tz=self.tz).replace(tzinfo=None)
+        now = datetime.now(timezone.utc).replace(tzinfo=None)
         self.window_start = now - relativedelta(years=1)
         self.window_end = now + relativedelta(years=1)
         self._seen_dates = set()
