@@ -39,8 +39,8 @@ def boards_items():
 
 
 def test_count(commission_items, boards_items):
-    assert len(commission_items) == 166
-    assert len(boards_items) == 116
+    assert len(commission_items) == 148
+    assert len(boards_items) == 108
 
 
 def test_title(commission_items, boards_items):

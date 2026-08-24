@@ -1,9 +1,16 @@
 import re
-from datetime import datetime, timezone
+from datetime import datetime
 from urllib.parse import unquote, urljoin
+from zoneinfo import ZoneInfo
 
 import scrapy
-from city_scrapers_core.constants import BOARD, COMMISSION, NOT_CLASSIFIED
+from city_scrapers_core.constants import (
+    ADVISORY_COMMITTEE,
+    BOARD,
+    COMMISSION,
+    COMMITTEE,
+    NOT_CLASSIFIED,
+)
 from city_scrapers_core.items import Meeting
 from city_scrapers_core.spiders import CityScrapersSpider
 from dateutil.parser import parse as dt_parser
@@ -43,6 +50,7 @@ class CinohHamiltonCountyMixin(
     agency = None
     categories = None
     timezone = "America/New_York"
+    tz = ZoneInfo(timezone)
 
     base_url = "https://www.hamiltoncountyohio.gov/"
     source_url = "https://www.hamiltoncountyohio.gov/calendar.php"
@@ -56,7 +64,7 @@ class CinohHamiltonCountyMixin(
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        now = datetime.now(timezone.utc).replace(tzinfo=None)
+        now = datetime.now(tz=self.tz).replace(tzinfo=None)
         self.window_start = now - relativedelta(years=1)
         self.window_end = now + relativedelta(years=1)
         self._seen_dates = set()
@@ -132,23 +140,45 @@ class CinohHamiltonCountyMixin(
             end_dt = record.get("end")
 
             if not record.get("rrule"):
-                records.append(record)
+                if not start_dt:
+                    self.logger.warning(
+                        "Record %s has no start; skipping", record.get("id")
+                    )
+                    continue
+                try:
+                    start_dt_object = datetime.fromisoformat(start_dt)
+                except ValueError:
+                    self.logger.warning(
+                        "Record %s has unparseable start %r; skipping",
+                        record.get("id"),
+                        start_dt,
+                    )
+                    continue
+                if self.window_start <= start_dt_object <= self.window_end:
+                    records.append(record)
                 continue
 
-            rset = rrulestr(record.get("rrule"), forceset=True)
+            try:
+                rset = rrulestr(record.get("rrule"), forceset=True)
+            except (ValueError, TypeError) as e:
+                self.logger.warning(
+                    "Record %s has invalid rrule; skipping: %s", record.get("id"), e
+                )
+                continue
 
+            duration = None
             if start_dt and end_dt:
                 duration = datetime.fromisoformat(end_dt) - datetime.fromisoformat(
                     start_dt
                 )
-            else:
-                duration = None
 
-            for occurence in rset.between(self.window_start, self.window_end, inc=True):
+            for occurrence in rset.between(
+                self.window_start, self.window_end, inc=True
+            ):
                 r_event = record.copy()
-                r_event["start"] = occurence.isoformat()
+                r_event["start"] = occurrence.isoformat()
                 r_event["end"] = (
-                    (occurence + duration).isoformat() if duration else None
+                    (occurrence + duration).isoformat() if duration else None
                 )
                 r_event.pop("rrule", None)
                 records.append(r_event)
@@ -193,6 +223,8 @@ class CinohHamiltonCountyMixin(
                     "board",
                 ),
             ),
+            (ADVISORY_COMMITTEE, ("advisory committee", "advisory council")),
+            (COMMITTEE, ("committee")),
             (COMMISSION, ("commission",)),
         ]
         for classification, keywords in classification_keywords:
