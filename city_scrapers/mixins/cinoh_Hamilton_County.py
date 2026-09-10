@@ -96,6 +96,8 @@ class CinohHamiltonCountyMixin(
             dt_string = dt_object.strftime("%Y-%m-%d %H:%M:%S")
 
             url_second_half = row.css("a::attr(href)").get()
+            if not url_second_half:
+                continue
             link = urljoin(self.attachments_base_url, url_second_half)
             attachments[dt_string] = link
         return attachments
