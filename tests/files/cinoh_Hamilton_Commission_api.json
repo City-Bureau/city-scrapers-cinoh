@@ -1,0 +1,2824 @@
+[
+{
+"title": "Commissioners Meeting",
+"primary_calendar_name": "County Events",
+"calendar_displays": [
+"1"
+],
+"start": "2025-02-20T18:00:00",
+"url": "",
+"location": "Todd Portune Building",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "12",
+"id": "12",
+"desc": "",
+"color": "#3787d8",
+"end": "2025-02-20T20:00:00",
+"duration": "02:00",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-02-06T10:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. 6th Floor, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "14",
+"id": "14",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Todd%20B.%20Portune%20Center%20of%20County%20Government%2C%3Cbr%20%2F%3E138%20East%20Court%20St.%206th%20Floor%2C%20Cincinnati%2C%20OH%2045202%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"rrule": "DTSTART:20250206T100000\nRDATE:20250206T100000\nRRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH;UNTIL=20251231T000000\nEXDATE:20250508T100000\nEXDATE:20250529T100000\nEXDATE:20250703T100000\nEXDATE:20250807T100000\nEXDATE:20250821T100000\nEXDATE:20250904T100000\nEXDATE:20250814T100000\nEXDATE:20251127T100000\nEXDATE:20250626T100000\nEXDATE:20250710T100000\nEXDATE:20250724T100000\nEXDATE:20250619T100000\nEXDATE:20250911T100000\nEXDATE:20251009T100000\nEXDATE:20251113T100000\nEXDATE:20250522T100000\nEXDATE:20250612T100000\nEXDATE:20251225T100000\nEXDATE:20251211T100000\nEXDATE:20251204T100000",
+"color": "#009dff",
+"end": "2025-02-06T11:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Public Hearing - Hospital Facilities Revenue Bonds",
+"primary_calendar_name": "Public Hearings",
+"calendar_displays": [
+"2"
+],
+"start": "2025-02-25T08:30:00",
+"url": "",
+"location": "Dinsmore & Shohl, LLP, 255 E. 5th Street, Suite 1900, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "16",
+"id": "16",
+"desc": "%3Ch2%3EHearing%20for%20Hamilton%20County%20Hospital%20Commission%2C%20regarding%20the%20issuance%20of%20Hospital%20Facilities%20Revenue%20Bonds%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3C%2Fh2%3E",
+"color": "#f04d0f",
+"end": "2025-02-25T09:00:00",
+"duration": "00:30",
+"options": ""
+},
+{
+"title": "New Year's Day",
+"primary_calendar_name": "BoCC Holidays",
+"calendar_displays": [
+"4"
+],
+"start": "2027-01-01T00:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "17",
+"id": "17",
+"desc": "",
+"rrule": "DTSTART:20270101T000000\nRDATE:20270101T000000\nRRULE:FREQ=YEARLY;BYMONTH=1;BYMONTHDAY=1",
+"color": "#17da99",
+"allDay": true,
+"options": ""
+},
+{
+"title": "Martin Luther King Day",
+"primary_calendar_name": "BoCC Holidays",
+"calendar_displays": [
+"4"
+],
+"start": "2025-01-20T00:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "18",
+"id": "18",
+"desc": "",
+"rrule": "DTSTART:20250120T000000\nRDATE:20250120T000000\nRRULE:FREQ=YEARLY;BYSETPOS=3;BYDAY=MO;BYMONTH=1",
+"color": "#17da99",
+"allDay": true,
+"options": ""
+},
+{
+"title": "Presidents' Day",
+"primary_calendar_name": "BoCC Holidays",
+"calendar_displays": [
+"4"
+],
+"start": "2025-02-17T00:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "19",
+"id": "19",
+"desc": "",
+"rrule": "DTSTART:20250217T000000\nRDATE:20250217T000000\nRRULE:FREQ=YEARLY;BYSETPOS=3;BYDAY=MO;BYMONTH=2",
+"color": "#17da99",
+"allDay": true,
+"options": ""
+},
+{
+"title": "Juneteenth",
+"primary_calendar_name": "BoCC Holidays",
+"calendar_displays": [
+"4"
+],
+"start": "2026-06-19T00:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "21",
+"id": "21",
+"desc": "",
+"rrule": "DTSTART:20260619T000000\nRDATE:20260619T000000\nRRULE:FREQ=YEARLY;BYMONTH=6;BYMONTHDAY=19",
+"color": "#17da99",
+"allDay": true,
+"options": ""
+},
+{
+"title": "Independence Day",
+"primary_calendar_name": "BoCC Holidays",
+"calendar_displays": [
+"4"
+],
+"start": "2026-07-04T00:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "22",
+"id": "22",
+"desc": "",
+"rrule": "DTSTART:20260704T000000\nRDATE:20260704T000000\nRRULE:FREQ=YEARLY;BYMONTH=7;BYMONTHDAY=4",
+"color": "#17da99",
+"allDay": true,
+"options": ""
+},
+{
+"title": "Labor Day",
+"primary_calendar_name": "BoCC Holidays",
+"calendar_displays": [
+"4"
+],
+"start": "2026-09-07T00:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "23",
+"id": "23",
+"desc": "",
+"rrule": "DTSTART:20260907T000000\nRDATE:20260907T000000\nRRULE:FREQ=YEARLY;BYSETPOS=1;BYDAY=MO;BYMONTH=9",
+"color": "#17da99",
+"allDay": true,
+"options": ""
+},
+{
+"title": "Veterans Day",
+"primary_calendar_name": "BoCC Holidays",
+"calendar_displays": [
+"4"
+],
+"start": "2026-11-11T00:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "24",
+"id": "24",
+"desc": "",
+"rrule": "DTSTART:20261111T000000\nRDATE:20261111T000000\nRRULE:FREQ=YEARLY;BYMONTH=11;BYMONTHDAY=11",
+"color": "#17da99",
+"allDay": true,
+"options": ""
+},
+{
+"title": "Thanksgiving Day",
+"primary_calendar_name": "BoCC Holidays",
+"calendar_displays": [
+"4"
+],
+"start": "2026-11-26T00:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "25",
+"id": "25",
+"desc": "",
+"rrule": "DTSTART:20261126T000000\nRDATE:20261126T000000\nRRULE:FREQ=YEARLY;BYSETPOS=4;BYDAY=TH;BYMONTH=11",
+"color": "#17da99",
+"allDay": true,
+"options": ""
+},
+{
+"title": "Day after Thanksgiving",
+"primary_calendar_name": "BoCC Holidays",
+"calendar_displays": [
+"4"
+],
+"start": "2026-11-27T00:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "26",
+"id": "26",
+"desc": "",
+"rrule": "DTSTART:20261127T000000\nRDATE:20261127T000000\nRRULE:FREQ=YEARLY;BYSETPOS=4;BYDAY=FR;BYMONTH=11",
+"color": "#17da99",
+"allDay": true,
+"options": ""
+},
+{
+"title": "Christmas Day",
+"primary_calendar_name": "BoCC Holidays",
+"calendar_displays": [
+"4"
+],
+"start": "2026-12-25T00:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "27",
+"id": "27",
+"desc": "",
+"rrule": "DTSTART:20261225T000000\nRDATE:20261225T000000\nRRULE:FREQ=YEARLY;BYMONTH=12;BYMONTHDAY=25",
+"color": "#17da99",
+"allDay": true,
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-03-13T13:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. 6th Floor, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "28",
+"id": "28",
+"desc": "",
+"color": "#009dff",
+"end": "2025-03-13T14:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-04-17T18:00:00",
+"url": "",
+"location": "Norwood City Hall, 4645 Montgomery Rd, Norwood, OH, 45212",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "30",
+"id": "30",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Norwood%20City%20Hall%2C%3Cbr%20%2F%3E4645%20Montgomery%20Rd.%2C%20Norwood%2C%20Ohio%2045212%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2025-04-17T19:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-05-08T13:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. 6th Floor, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "31",
+"id": "31",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Todd%20B.%20Portune%20Center%20of%20County%20Government%2C%3Cbr%20%2F%3E138%20East%20Court%20St.%206th%20Floor%2C%20Cincinnati%2C%20OH%2045202%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2025-05-08T14:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "BoCC Staff Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-02-04T10:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. 6th Floor, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "34",
+"id": "34",
+"desc": "%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E%0A%3Cdiv%20id%3D%22lt-accessibility-devtools%22%20aria-hidden%3D%22true%22%3E%3C%2Fdiv%3E",
+"rrule": "DTSTART:20250204T100000\nRDATE:20250204T100000\nRRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20251231T000000\nEXDATE:20250527T100000\nEXDATE:20250610T100000\nEXDATE:20250701T100000\nEXDATE:20250722T100000\nEXDATE:20250805T100000\nEXDATE:20250826T100000\nEXDATE:20250902T100000\nEXDATE:20250513T100000\nEXDATE:20250506T100000\nEXDATE:20250708T100000\nEXDATE:20250819T100000\nEXDATE:20250930T100000\nEXDATE:20250916T100000\nEXDATE:20251104T100000\nEXDATE:20251111T100000\nEXDATE:20251125T100000\nEXDATE:20251209T100000\nEXDATE:20251223T100000\nEXDATE:20251230T100000",
+"color": "#009dff",
+"end": "2025-02-04T11:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-08-14T18:00:00",
+"url": "",
+"location": "Springdale Municipal Building, 11700 Springfield Pike, Cincinnati, OH, 45246",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "50",
+"id": "50",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Springdale%20Municipal%20Building%2C%3Cbr%20%2F%3E11700%20Springfield%20Pike%2C%20Cincinnati%2C%20Ohio%2045246%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2025-08-14T19:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Board of Building Appeals",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2025-03-05T09:15:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. Room 805, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "52",
+"id": "52",
+"desc": "",
+"rrule": "DTSTART:20250305T091500\nRDATE:20250305T091500\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYSETPOS=1;BYDAY=WE;UNTIL=20251231T000000",
+"color": "#663ef2",
+"end": "2025-03-05T11:30:00",
+"duration": "02:15",
+"options": ""
+},
+{
+"title": "Regional Planning Commission",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2025-03-06T13:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. Room 805, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "53",
+"id": "53",
+"desc": "",
+"rrule": "DTSTART:20250306T130000\nRDATE:20250306T130000\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYSETPOS=1;BYDAY=TH;UNTIL=20251231T000000",
+"color": "#663ef2",
+"end": "2025-03-06T15:00:00",
+"duration": "02:00",
+"options": ""
+},
+{
+"title": "Board of Zoning Appeals",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2025-03-12T13:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. Room 805, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "54",
+"id": "54",
+"desc": "",
+"rrule": "DTSTART:20250312T130000\nRDATE:20250312T130000\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYSETPOS=2;BYDAY=WE;UNTIL=20251231T000000",
+"color": "#663ef2",
+"end": "2025-03-12T15:00:00",
+"duration": "02:00",
+"options": ""
+},
+{
+"title": "Rural Zoning Commission",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2025-03-20T13:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. Room 805, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "56",
+"id": "56",
+"desc": "",
+"rrule": "DTSTART:20250320T130000\nRDATE:20250320T130000\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYSETPOS=3;BYDAY=TH;UNTIL=20251231T000000\nEXDATE:20250619T130000",
+"color": "#663ef2",
+"end": "2025-03-20T15:00:00",
+"duration": "02:00",
+"options": ""
+},
+{
+"title": "OneOhio Region 2 Recovery Foundation Governance Board",
+"primary_calendar_name": "Addiction Response",
+"calendar_displays": [
+"9",
+"3"
+],
+"start": "2025-03-05T09:30:00",
+"url": "",
+"location": "Todd B. Portune Center for County Government, 138 E. Court St., Rm 610, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "57",
+"id": "57",
+"desc": "",
+"rrule": "DTSTART:20250305T093000\nRDATE:20250305T093000\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYSETPOS=1;BYDAY=WE;UNTIL=20251231T000000",
+"color": "#f04d0f",
+"end": "2025-03-05T11:00:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Hamilton County Records Commission",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2025-03-10T09:00:00",
+"url": "",
+"location": "Todd B. Portune Center for County Government, 138 E. Court St., Rm 610, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "58",
+"id": "58",
+"desc": "",
+"color": "#663ef2",
+"end": "2025-03-10T10:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Tax Levy Review Committee",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2025-03-10T18:00:00",
+"url": "",
+"location": "Hamilton County Board of Elections, 4700 Smith Rd. Cincinnati, Ohio 45212",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "59",
+"id": "59",
+"desc": "",
+"color": "#663ef2",
+"end": "2025-03-10T19:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Hospital Commission",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2025-04-08T08:30:00",
+"url": "",
+"location": "Dinsmore & Shohl, LLP, 255 E. 5th Street, Suite 1900, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "62",
+"id": "62",
+"desc": "",
+"rrule": "DTSTART:20250408T083000\nRDATE:20250408T083000\nRRULE:FREQ=MONTHLY;INTERVAL=3;BYSETPOS=2;BYDAY=TU;UNTIL=20251231T000000",
+"color": "#663ef2",
+"end": "2025-04-08T09:30:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Land Reutilization Corporation Board",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2025-04-22T16:00:00",
+"url": "",
+"location": "Todd B. Portune Center for County Government, 138 East Court St. 6th Floor, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "63",
+"id": "63",
+"desc": "",
+"rrule": "DTSTART:20250422T160000\nRDATE:20250422T160000\nRRULE:FREQ=MONTHLY;INTERVAL=3;BYSETPOS=4;BYDAY=TU\nEXDATE:20250722T160000",
+"color": "#663ef2",
+"end": "2025-04-22T17:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Investment Advisory Committee",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2025-05-21T13:00:00",
+"url": "",
+"location": "Todd B. Portune Center for County Government, 138 East Court Street, Room 409, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "64",
+"id": "64",
+"desc": "",
+"rrule": "DTSTART:20250521T130000\nRDATE:20250521T130000\nRRULE:FREQ=MONTHLY;INTERVAL=3;BYSETPOS=2;BYDAY=WE;UNTIL=20251231T000000",
+"color": "#663ef2",
+"end": "2025-05-21T14:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Economic Inclusion Advisory Council",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2025-05-28T13:00:00",
+"url": "",
+"location": "Virtual",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "65",
+"id": "65",
+"desc": "",
+"rrule": "DTSTART:20250528T130000\nRDATE:20250528T130000\nRRULE:FREQ=MONTHLY;INTERVAL=3;BYSETPOS=4;BYDAY=WE",
+"color": "#663ef2",
+"end": "2025-05-28T14:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Rural Zoning Commission",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2025-06-18T13:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. Room 805, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "67",
+"id": "67",
+"desc": "",
+"color": "#663ef2",
+"end": "2025-06-18T15:00:00",
+"duration": "02:00",
+"options": ""
+},
+{
+"title": "Commissioner Meeting (Canceled)",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-03-27T10:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. 6th Floor, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "68",
+"id": "68",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Todd%20B.%20Portune%20Center%20of%20County%20Government%2C%3Cbr%20%2F%3E138%20East%20Court%20St.%206th%20Floor%2C%20Cincinnati%2C%20OH%2045202%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2025-03-27T11:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "HC ARC Steering Committee (Canceled)",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2025-03-26T11:00:00",
+"url": "",
+"location": "Todd B. Portune Center for County Government, 138 E. Court St., Rm 610, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "70",
+"id": "70",
+"desc": "",
+"color": "#663ef2",
+"end": "2025-03-26T12:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-04-10T13:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. 6th Floor, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "77",
+"id": "77",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Todd%20B.%20Portune%20Center%20of%20County%20Government%2C%3Cbr%20%2F%3E138%20East%20Court%20St.%206th%20Floor%2C%20Cincinnati%2C%20OH%2045202%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2025-04-10T14:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-06-26T10:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. 6th Floor, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "78",
+"id": "78",
+"desc": "",
+"color": "#009dff",
+"end": "2025-06-26T11:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-09-11T12:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. 6th Floor, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "79",
+"id": "79",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Todd%20B.%20Portune%20Center%20of%20County%20Government%2C%3Cbr%20%2F%3E138%20East%20Court%20St.%206th%20Floor%2C%20Cincinnati%2C%20OH%2045202%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E%0A%3Cdiv%20id%3D%22lt-accessibility-devtools%22%20aria-hidden%3D%22true%22%3E%3C%2Fdiv%3E",
+"color": "#009dff",
+"end": "2025-09-11T13:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-10-09T13:30:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. 6th Floor, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "80",
+"id": "80",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Todd%20B.%20Portune%20Center%20of%20County%20Government%2C%3Cbr%20%2F%3E138%20East%20Court%20St.%206th%20Floor%2C%20Cincinnati%2C%20OH%2045202%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2025-10-09T15:00:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-12-11T10:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. 6th Floor, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "82",
+"id": "82",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Todd%20B.%20Portune%20Center%20of%20County%20Government%2C%3Cbr%20%2F%3E138%20East%20Court%20St.%206th%20Floor%2C%20Cincinnati%2C%20OH%2045202%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2025-12-11T11:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "BoCC Staff Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-05-13T11:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. 6th Floor, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "84",
+"id": "84",
+"desc": "%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2025-05-13T12:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "BoCC Special Meeting - Commissioners Budget Forum",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-05-06T10:00:00",
+"url": "",
+"location": "Memorial Hall, 1225 Elm Street, Cincinnati, Ohio 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "86",
+"id": "86",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Memorial%20Hall%2C%20%3Cbr%20%2F%3E1225%20Elm%20Street%2C%20Cincinnati%2C%20Ohio%2045202%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2025-05-06T11:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Tax Levy Review Committee",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2025-05-27T18:00:00",
+"url": "",
+"location": "Hamilton County Board of Elections, 4700 Smith Rd. Cincinnati, Ohio 45212",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "88",
+"id": "88",
+"desc": "",
+"color": "#663ef2",
+"end": "2025-05-27T19:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-05-22T11:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. 6th Floor, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "89",
+"id": "89",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Todd%20B.%20Portune%20Center%20of%20County%20Government%2C%3Cbr%20%2F%3E138%20East%20Court%20St.%206th%20Floor%2C%20Cincinnati%2C%20OH%2045202%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2025-05-22T12:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Addiction Response Coalition - June Full Coalition Meeting",
+"primary_calendar_name": "Addiction Response",
+"calendar_displays": [
+"9",
+"3"
+],
+"start": "2025-06-27T11:00:00",
+"url": "https://lp.constantcontactpages.com/ev/reg/j9hqgp6",
+"location": "Hamilton County Coroner, 4477 Carver Woods Dr, Blue Ash, OH 45242",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "91",
+"id": "91",
+"desc": "%3Ch2%20class%3D%22sub-heading%20sub-heading-sm%20event-description%20text-color-grey%20ws-pre-wrap%22%20data-qe-id%3D%22event-description%22%3E%3Cspan%20class%3D%22line-clamp-wrapper%22%20style%3D%22font-size%3A%2014px%3B%22%3EThe%20Hamilton%20County%20Addiction%20Response%20Coalition%20hosts%20quarterly%20in%20person%20events%20at%20Hamilton%20County%27s%20Dr.%20Odell%20Owen%27s%20Coroner%20Office%20and%20Crime%20Lab.%3Cbr%20%2F%3EThe%20goal%20of%20these%20quarterly%20meetings%20is%20to%20provide%20updates%20on%20the%20field%27s%20data%20trends%2C%20programming%2C%20best%20practices%2C%20funding%20opportunities%2C%20and%20events.%3Cbr%20%2F%3ELunch%20is%20served%20on%20a%20first%20come%2C%20first%20served%20basis.%20Registration%20is%20encouraged%20to%20generate%20an%20accurate%20head%20count%20for%20food.%3Cbr%20%2F%3E%3Cbr%20%2F%3EAddress%3A4477%20Carver%20Woods%20Dr%2C%20Blue%20Ash%2C%20OH%2045242%3Cbr%20%2F%3EDate%20and%20Time%3A%20Friday%2C%20June%2028%20from%2011%3A00AM-12%3A30PM%3C%2Fspan%3E%3C%2Fh2%3E",
+"color": "#f04d0f",
+"end": "2025-06-27T12:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Hamilton County Addiction Response Coalition - October Full Coalition Meeting",
+"primary_calendar_name": "Addiction Response",
+"calendar_displays": [
+"9"
+],
+"start": "2025-10-03T11:00:00",
+"url": "https://lp.constantcontactpages.com/ev/reg/j9hqgp6/lp/c986edae-f7c8-45d3-8653-8eab65154ead",
+"location": "Hamilton County Coroner 4477 Carver Woods Dr, Blue Ash, OH 45242",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "92",
+"id": "92",
+"desc": "The%20Hamilton%20County%20Addiction%20Response%20Coalition%20hosts%20quarterly%20in%20person%20events%20at%20Hamilton%20County%27s%20Dr.%20Odell%20Owen%27s%20Coroner%20Office%20and%20Crime%20Lab.%3Cbr%20%2F%3E%3Cbr%20%2F%3EThe%20goal%20of%20these%20quarterly%20meetings%20is%20to%20provide%20updates%20on%20the%20field%27s%20data%20trends%2C%20programming%2C%20best%20practices%2C%20funding%20opportunities%2C%20and%20events.%3Cbr%20%2F%3E%3Cbr%20%2F%3ELunch%20is%20served%20on%20a%20first%20come%2C%20first%20served%20basis.%20Registration%20is%20encouraged%20to%20generate%20an%20accurate%20head%20count%20for%20food.%3Cbr%20%2F%3E%3Cbr%20%2F%3EAddress%3A%20Hamilton%20County%20Coroner%20-%204477%20Carver%20Woods%20Dr%2C%20Blue%20Ash%2C%20OH%2045242%3Cbr%20%2F%3E%3Cstrong%3E%2A%2ACHANGE%20OF%20Date%3C%2Fstrong%3E%3A%20October%203%2C%202025%2011%3A00am%20-%26nbsp%3B%2012%3A30pm",
+"color": "#f04d0f",
+"end": "2025-10-03T12:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Addiction Response Coalition's Monthly Engage & Exchange",
+"primary_calendar_name": "Addiction Response",
+"calendar_displays": [
+"9"
+],
+"start": "2025-06-12T09:00:00",
+"url": "",
+"location": "Microsoft Teams",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "93",
+"id": "93",
+"desc": "%3Ch2%3EAn%20Hour%20of%20Insights%2C%20Collaborative%20Conversations%2C%20and%20Open%20Forum.%3C%2Fh2%3E%0A%3Cp%3EThe%20Addiction%20Response%20Coalition%20Monthly%20Engage%20%26amp%3B%20Exchange%20aims%20to%20foster%20meaningful%20dialogue%20and%20collaboration%20among%20coalition%20members%2C%20community%20stakeholders%2C%20and%20experts%20in%20the%20field%20of%20addiction%20response.%26nbsp%3B%3Cbr%20%2F%3E%3Cbr%20%2F%3EThe%20Engage%20%26amp%3B%20Exchange%20Forum%27s%20are%20hosted%20monthly%20on%20the%20second%20Thursday%20of%20the%20month%20from%209%3A00AM%20-%2010%3A00AM.%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Cstrong%3EEmail%20AddictionResponse%40hamitoncountyohio.gov%20for%20a%20link%20to%20register.%26nbsp%3B%3C%2Fstrong%3E%3C%2Fp%3E",
+"rrule": "DTSTART:20250612T090000\nRDATE:20250612T090000\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYSETPOS=2;BYDAY=TH",
+"color": "#f04d0f",
+"end": "2025-06-12T10:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Hamilton County Addiction Response Coalition - December Full Coalition Meeting",
+"primary_calendar_name": "Addiction Response",
+"calendar_displays": [
+"9"
+],
+"start": "2025-12-12T11:00:00",
+"url": "Addiction Response Coalition's Monthly Engage & Exchange:&nbsp;  An Hour of Insights, Collaborative Conversations, and Open Forum.&nbsp; &nbsp; The Addiction Response Coalition Monthly Engage & Exchange aims to foster meaningful dialogue and collaboration among coalition members, community stakeholders, and experts in the field of addiction response.",
+"location": "4477 Carver Woods Dr, Blue Ash, OH 45242",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "94",
+"id": "94",
+"desc": "The%20Hamilton%20County%20Addiction%20Response%20Coalition%20hosts%20quarterly%20in%20person%20events%20at%20Hamilton%20County%27s%20Dr.%20Odell%20Owen%27s%20Coroner%20Office%20and%20Crime%20Lab.%3Cbr%20%2F%3E%3Cbr%20%2F%3EThe%20goal%20of%20these%20quarterly%20meetings%20is%20to%20provide%20updates%20on%20the%20field%27s%20data%20trends%2C%20programming%2C%20best%20practices%2C%20funding%20opportunities%2C%20and%20events.%3Cbr%20%2F%3E%3Cbr%20%2F%3ELunch%20is%20served%20on%20a%20first%20come%2C%20first%20served%20basis.%20Registration%20is%20encouraged%20to%20generate%20an%20accurate%20head%20count%20for%20food.%3Cbr%20%2F%3E%3Cbr%20%2F%3EAddress%3A%204477%20Carver%20Woods%20Dr%2C%20Blue%20Ash%2C%20OH%2045242%3Cbr%20%2F%3EDate%20and%20Time%3A%20Dec%2012%2C%202025%2011%3A00am%20-%20Dec%2012%2C%202025%2012%3A30pm",
+"color": "#f04d0f",
+"end": "2025-12-12T12:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Civil Treatment Workplace for Managers - Virtual Training Session",
+"primary_calendar_name": "HRD",
+"calendar_displays": [
+"8"
+],
+"start": "2025-07-23T08:30:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "95",
+"id": "95",
+"desc": "Supervisors%20and%20managers%20play%20a%20key%20role%20in%20making%20sure%20their%20team%20members%20are%20given%20every%20opportunity%20to%20succeed.%20In%20this%20intensive%20course%2C%20we%27ll%20learn%20a%20set%20of%20Civil%20Treatment%20Foundations%20that%20help%20us%20to%20manage%20fairly%20and%20legally%2C%20to%20model%20appropriate%20behavior%2C%20and%20to%20prevent%2C%20detect%2C%20and%20correct%20workplace%20issues%20that%20arise.%3Cbr%20%2F%3E%3Cbr%20%2F%3EMandatory%20and%20available%20only%20for%20supervisors%20and%20managers%20whose%20organizations%20participate%20in%20the%20Civil%20Treatment%20program.",
+"rrule": "DTSTART:20250723T083000\nRDATE:20250723T083000\nRRULE:FREQ=DAILY;INTERVAL=1;COUNT=2",
+"color": "#3787d8",
+"end": "2025-07-23T10:30:00",
+"duration": "02:00",
+"options": ""
+},
+{
+"title": "Leadership For Results: Building Trust Under Pressure - The Basic Principles Virtual Training Session",
+"primary_calendar_name": "HRD",
+"calendar_displays": [
+"8"
+],
+"start": "2025-07-29T08:30:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "96",
+"id": "96",
+"desc": "In%20this%20course%2C%20you%20will%20be%20introduced%20to%20the%20Basic%20Principles%2C%20which%20will%20help%20you%20learn%3A%3Cbr%20%2F%3E%26bull%3B%20How%20to%20build%20trust%20with%20others%2C%20even%20under%20pressure-packed%20conditions%3Cbr%20%2F%3E%26bull%3B%20How%20to%20establish%20a%20wide%20network%20of%20effective%20relationships%3Cbr%20%2F%3E%26bull%3B%20How%20to%20maintain%20a%20positive%20work%20environment%2C%20and%3Cbr%20%2F%3E%26bull%3B%20How%20to%20defuse%20highly%20charged%20situations%20with%20others.%3Cbr%20%2F%3E%3Cbr%20%2F%3EAvailable%20for%20supervisors%20and%20non-supervisory%20employees%20whose%20organizations%20participate%20in%20the%20Leadership%20for%20Results%20program.%3Cbr%20%2F%3E%3Cbr%20%2F%3EOnce%20this%20foundational%20class%20is%20completed%2C%20employees%20are%20then%20eligible%20to%20participate%20in%20other%20Leadership%20for%20Results%20courses.",
+"color": "#3787d8",
+"end": "2025-07-29T10:30:00",
+"duration": "02:00",
+"options": ""
+},
+{
+"title": "Civil Treatment Workplace for Employees Virtual Training Session",
+"primary_calendar_name": "HRD",
+"calendar_displays": [
+"8"
+],
+"start": "2025-05-28T08:30:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "97",
+"id": "97",
+"desc": "Enroll%20through%20the%20Hamilton%20County%20Learning%20Management%20System%20or%20contact%20your%20department%27s%20training%20coordinator%20for%20assistance.",
+"color": "#3787d8",
+"end": "2025-05-28T11:00:00",
+"duration": "02:30",
+"options": ""
+},
+{
+"title": "Civil Treatment Workplace for Employees Virtual Training Session",
+"primary_calendar_name": "HRD",
+"calendar_displays": [
+"8"
+],
+"start": "2025-06-10T08:30:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "98",
+"id": "98",
+"desc": "Enroll%20through%20the%20Hamilton%20County%20Learning%20Management%20System%20or%20contact%20your%20department%27s%20training%20coordinator%20for%20assistance.",
+"color": "#3787d8",
+"end": "2025-06-10T11:00:00",
+"duration": "02:30",
+"options": ""
+},
+{
+"title": "Civil Treatment Workplace for Employees Virtual Training Session",
+"primary_calendar_name": "HRD",
+"calendar_displays": [
+"8"
+],
+"start": "2025-07-30T08:30:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "99",
+"id": "99",
+"desc": "Enroll%20through%20the%20Hamilton%20County%20Learning%20Management%20System%20or%20contact%20your%20department%27s%20training%20coordinator%20for%20assistance.",
+"color": "#3787d8",
+"end": "2025-07-30T11:00:00",
+"duration": "02:30",
+"options": ""
+},
+{
+"title": "Civil Treatment Workplace for Employees Virtual Training Session",
+"primary_calendar_name": "HRD",
+"calendar_displays": [
+"8"
+],
+"start": "2025-09-09T08:30:00",
+"url": "https://hamiltoncountyohio.noverant.com/protected/catalog/sessions",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "100",
+"id": "100",
+"desc": "Enroll%20through%20the%20Hamilton%20County%20Learning%20Management%20System%20or%20contact%20your%20department%27s%20training%20coordinator%20for%20assistance.",
+"color": "#3787d8",
+"end": "2025-09-09T11:00:00",
+"duration": "02:30",
+"options": ""
+},
+{
+"title": "CPR Provider Certification (American Heart Association's Heartsaver Total Course)",
+"primary_calendar_name": "HRD",
+"calendar_displays": [
+"8"
+],
+"start": "2025-09-23T08:30:00",
+"url": "https://hamiltoncountyohio.noverant.com/protected/catalog/sessions",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "101",
+"id": "101",
+"desc": "%3Cp%3EEnroll%20through%20the%20Hamilton%20County%20Learning%20Management%20System%20or%20contact%20your%20department%27s%20training%20coordinator%20for%20assistance.%3C%2Fp%3E",
+"color": "#3787d8",
+"end": "2025-09-23T16:00:00",
+"duration": "07:30",
+"options": ""
+},
+{
+"title": "CPR Provider Certification (American Heart Association's Heartsaver Total Course)",
+"primary_calendar_name": "HRD",
+"calendar_displays": [
+"8"
+],
+"start": "2025-09-25T08:30:00",
+"url": "https://hamiltoncountyohio.noverant.com/protected/catalog/sessions",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "102",
+"id": "102",
+"desc": "%3Cp%3EEnroll%20through%20the%20Hamilton%20County%20Learning%20Management%20System%20or%20contact%20your%20department%27s%20training%20coordinator%20for%20assistance.%3C%2Fp%3E",
+"color": "#3787d8",
+"end": "2025-09-25T16:00:00",
+"duration": "07:30",
+"options": ""
+},
+{
+"title": "CPR Provider Certification (American Heart Association's Heartsaver Total Course)",
+"primary_calendar_name": "HRD",
+"calendar_displays": [
+"8"
+],
+"start": "2025-09-30T08:30:00",
+"url": "https://hamiltoncountyohio.noverant.com/protected/catalog/sessions",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "103",
+"id": "103",
+"desc": "%3Cp%3EEnroll%20through%20the%20Hamilton%20County%20Learning%20Management%20System%20or%20contact%20your%20department%27s%20training%20coordinator%20for%20assistance.%3C%2Fp%3E",
+"color": "#3787d8",
+"end": "2025-09-30T16:00:00",
+"duration": "07:30",
+"options": ""
+},
+{
+"title": "Leadership For Results: Developing Team Performance Virtual Training Session (Part 1 & Part 2)",
+"primary_calendar_name": "HRD",
+"calendar_displays": [
+"8"
+],
+"start": "2025-08-20T08:30:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "104",
+"id": "104",
+"desc": "%3Cp%3EEnroll%20through%20the%20Hamilton%20County%20Learning%20Management%20System%20or%20contact%20your%20department%27s%20training%20coordinator%20for%20assistance.%3C%2Fp%3E",
+"rrule": "DTSTART:20250820T083000\nRDATE:20250820T083000\nRRULE:FREQ=DAILY;INTERVAL=1;COUNT=2",
+"color": "#3787d8",
+"end": "2025-08-20T10:30:00",
+"duration": "02:00",
+"options": ""
+},
+{
+"title": "Leadership For Results: Needs-Based Coaching - Realizing Talent in Others Virtual Training Session (Part 1 & 2)",
+"primary_calendar_name": "HRD",
+"calendar_displays": [
+"8"
+],
+"start": "2025-09-17T08:30:00",
+"url": "https://hamiltoncountyohio.noverant.com/protected/catalog/sessions",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "105",
+"id": "105",
+"desc": "%3Cp%3EEnroll%20through%20the%20Hamilton%20County%20Learning%20Management%20System%20or%20contact%20your%20department%27s%20training%20coordinator%20for%20assistance.%3C%2Fp%3E",
+"rrule": "DTSTART:20250917T083000\nRDATE:20250917T083000\nRRULE:FREQ=DAILY;INTERVAL=1;COUNT=2",
+"color": "#3787d8",
+"end": "2025-09-17T10:30:00",
+"duration": "02:00",
+"options": ""
+},
+{
+"title": "Leadership For Results: Performance Management - Identifying Work Priorities",
+"primary_calendar_name": "HRD",
+"calendar_displays": [
+"8"
+],
+"start": "2025-08-05T08:30:00",
+"url": "",
+"location": "135 E Court Street, 7th Floor",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "106",
+"id": "106",
+"desc": "%3Cp%3EEnroll%20through%20the%20Hamilton%20County%20Learning%20Management%20System%20or%20contact%20your%20department%27s%20training%20coordinator%20for%20assistance.%3C%2Fp%3E",
+"color": "#3787d8",
+"end": "2025-08-05T11:30:00",
+"duration": "03:00",
+"options": ""
+},
+{
+"title": "Leadership For Results: Performance Management - Setting Verifiable Goals Training Session",
+"primary_calendar_name": "HRD",
+"calendar_displays": [
+"8"
+],
+"start": "2025-08-06T08:30:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "107",
+"id": "107",
+"desc": "%3Cp%3EEnroll%20through%20the%20Hamilton%20County%20Learning%20Management%20System%20or%20contact%20your%20department%27s%20training%20coordinator%20for%20assistance.%3C%2Fp%3E",
+"color": "#3787d8",
+"end": "2025-08-06T10:30:00",
+"duration": "02:00",
+"options": ""
+},
+{
+"title": "Professional Customer Service for JFS Employees Virtual Training Session (Part 1 of 2)",
+"primary_calendar_name": "HRD",
+"calendar_displays": [
+"8"
+],
+"start": "2025-09-08T08:30:00",
+"url": "https://hamiltoncountyohio.noverant.com/protected/catalog/sessions",
+"location": "Live instructor-led virtual training",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "108",
+"id": "108",
+"desc": "%3Cp%3EOnly%20available%20for%20JFS%20Employees.%3Cbr%20%2F%3EEnroll%20through%20the%20Hamilton%20County%20Learning%20Management%20System%20or%20contact%20your%20department%27s%20training%20coordinator%20for%20assistance.%3C%2Fp%3E",
+"color": "#3787d8",
+"end": "2025-09-08T10:30:00",
+"duration": "02:00",
+"options": ""
+},
+{
+"title": "Land Reutilization Corporation Board",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2025-06-24T16:00:00",
+"url": "",
+"location": "Todd B. Portune Center for County Government, 138 East Court St. 6th Floor, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "109",
+"id": "109",
+"desc": "",
+"color": "#663ef2",
+"end": "2025-06-24T17:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "On the Front Lines Community Alliance Monthly SWAP Meeting",
+"primary_calendar_name": "Addiction Response",
+"calendar_displays": [
+"9"
+],
+"start": "2025-07-01T11:30:00",
+"url": "https://www.eventbrite.com/cc/cincinnati-swap-meetings-1813459?utm-campaign=social&utm-content=creatorshare&utm-medium=discovery&utm-term=odclsxcollection&utm-source=cp&aff=escb",
+"location": "1916 Central Pkwy Cincinnati, OH 45214",
+"image": "<img src=\"./OTFL New 02.05.25.png\" alt=\"OTFL New 02.05.25\"/>",
+"rid": "112",
+"id": "112",
+"desc": "%3Cdiv%20class%3D%22Layout-module__module___2eUcs%20undefined%22%20data-testid%3D%22aboutThisEvent%22%3E%0A%3Cdiv%20class%3D%22event-details__main-inner%22%3E%0A%3Cdiv%20class%3D%22eds-l-mar-bot-12%20structured-content%22%3E%0A%3Cdiv%20class%3D%22has-user-generated-content%20event-description%22%3E%0A%3Cdiv%20id%3D%22event-description%22%20class%3D%22has-user-generated-content%20event-description__content%20event-description__content--expanded%22%3E%0A%3Cdiv%20class%3D%22eds-l-mar-vert-6%20eds-l-sm-mar-vert-4%20eds-text-bm%20structured-content-rich-text%22%3E%0A%3Cdiv%20class%3D%22eds-text--left%22%3E%0A%3Cp%3E%3Cstrong%3E%3Cbr%20%2F%3EOn%20the%20Front%20Lines%20Community%20Alliance%2C%20serves%20as%20an%20advisory%20group%20to%20the%20Hamilton%20County%20Addiction%20Response%20Coalition%27s%20Recovery%20Pillar.%3C%2Fstrong%3E%3Cbr%20%2F%3E%3Cbr%20%2F%3EOn%20the%20Front%20Lines%20Community%20Alliance%20invites%20you%20to%20join%20us%20for%20a%20networking%20event%20focused%20on%20building%20a%20collaborative%20recovery%20ecosystem.%20Our%20community%20of%20practice%20brings%20together%20professionals%20in%20mental%20health%2C%20addiction%2C%20and%20recovery%20to%20share%20challenges%2C%20creative%20solutions%2C%20and%20coping%20strategies.%20The%20goal%20is%20to%20foster%20trust%2C%20eliminate%20competition%2C%20and%20create%20a%20seamless%20continuum%20of%20care%20for%20individuals%20seeking%20recovery%20services.%3C%2Fp%3E%0A%3Cp%3EThis%20networking%20luncheon%20is%20an%20opportunity%20to%20connect%20with%20peers%2C%20build%20meaningful%20relationships%2C%20and%20promote%20a%20culture%20of%20service%20and%20commitment.%20Attendees%20are%20encouraged%20to%20share%20recovery-related%20resources%2C%20events%2C%20career%20opportunities%2C%20and%20continuing%20education%20programs.%3C%2Fp%3E%0A%3Cp%3ELunch%20will%20be%20provided%20on%20a%20first-come%2C%20first-serve%20basis%2C%20so%20arrive%20early%20to%20enjoy%20a%20delicious%20meal%20while%20networking%20with%20like-minded%20professionals.%3C%2Fp%3E%0A%3Cp%3EOTFLCA%20Cincinnati%20SWAP%20Meeting%3A%20%3Cbr%20%2F%3EDate%3A%20First%20Tuesday%20of%20every%20month%3Cbr%20%2F%3ETime%3A%2011%3A30AM%20-%201%3A30PM%3Cbr%20%2F%3ELocation%3A%20Ohio%20Means%20Jobs%2C%20Cincinnati%20-%201916%20Central%20Pkwy%20Cincinnati%2C%20OH%2045214%3Cbr%20%2F%3ERegistration%20Link%3A%20https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fon-the-front-lines-cincinnati-monthly-swap-socials-with-a-purpose-tickets-1105672037829%3Faff%3Dodcleoeventsincollection%26nbsp%3B%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3C%2Fp%3E%0A%3C%2Fdiv%3E%0A%3C%2Fdiv%3E%0A%3C%2Fdiv%3E%0A%3C%2Fdiv%3E%0A%3C%2Fdiv%3E%0A%3C%2Fdiv%3E%0A%3C%2Fdiv%3E",
+"rrule": "DTSTART:20250701T113000\nRDATE:20250701T113000\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYSETPOS=1;BYDAY=TU",
+"color": "#f04d0f",
+"end": "2025-07-01T13:30:00",
+"duration": "02:00",
+"options": ""
+},
+{
+"title": "Harm Reduction Quarterly Meeting",
+"primary_calendar_name": "Addiction Response",
+"calendar_displays": [
+"9"
+],
+"start": "2025-08-12T13:00:00",
+"url": "",
+"location": "5050 Section Ave. Norwood, OH 45212",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "113",
+"id": "113",
+"desc": "%3Cspan%20class%3D%22OYPEnA%20font-feature-liga-off%20font-feature-clig-off%20font-feature-calt-off%20text-decoration-none%20text-strikethrough-none%22%3E%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Cstrong%3EHarm%20Reduction%20Committee%20-%20Quarterly%20Meeting%26nbsp%3B%3C%2Fstrong%3E%3Cbr%20%2F%3EAs%20a%20subset%20of%20the%20Hamilton%20County%20Addiction%20Response%20Coalition%2C%20the%20Harm%20Reduction%20Pillar%20is%20committed%20to%20building%20a%20collaborative%20network%20that%20promotes%20stigma-free%20access%20to%20comprehensive%20harm%20reduction%20services%2C%20supports%20vulnerable%20populations%2C%20and%20advocates%20for%20data-driven%20policies%20to%20enhance%20community%20health%20and%20safety.%3C%2Fspan%3E%3Cbr%20%2F%3E%3Cbr%20%2F%3EThe%20Harm%20Reduction%20Pillar%20meets%20quarterly%20with%20community%20partners%20to%20share%20drug%20and%20overdose%20trends%2C%20provide%20trainings%2C%20and%20solicit%20community%20feedback%20regarding%20ways%20to%20prevent%20harm%20and%20promote%20wellness%20in%20the%20community.%3Cbr%20%2F%3E%3Cbr%20%2F%3EDate%3A%20Second%20Tuesday%20of%20the%20Quarter%20%28January%2014%2C%20April%208%20%3Cspan%20style%3D%22text-decoration%3A%20line-through%3B%22%3EJuly%208%3C%2Fspan%3E%2C%20August%2012%2C%20October%2014%29%3Cbr%20%2F%3ETime%3A%209%3A00AM%20-%2011%3A00AM%3Cbr%20%2F%3ETime%208%2F12%3A%201%3A00PM%20-%203%3A00PM%3Cbr%20%2F%3ELocation%20Hamilton%20County%20Public%20Health%2C%205050%20Section%20Ave.%20Norwood%2C%20OH%2045212",
+"color": "#f04d0f",
+"end": "2025-08-12T15:00:00",
+"duration": "02:00",
+"options": ""
+},
+{
+"title": "Harm Reduction Committee Quarterly Meeting",
+"primary_calendar_name": "Addiction Response",
+"calendar_displays": [
+"9"
+],
+"start": "2025-10-14T09:00:00",
+"url": "",
+"location": "5050 Section Ave. Norwood, OH 45212",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "114",
+"id": "114",
+"desc": "%3Cspan%20class%3D%22OYPEnA%20font-feature-liga-off%20font-feature-clig-off%20font-feature-calt-off%20text-decoration-none%20text-strikethrough-none%22%3E%3Cstrong%3E%3Cbr%20%2F%3EHarm%20Reduction%20Committee%20-%20Quarterly%20Meeting%26nbsp%3B%3C%2Fstrong%3E%3Cbr%20%2F%3EAs%20a%20subset%20of%20the%20Hamilton%20County%20Addiction%20Response%20Coalition%2C%20the%20Harm%20Reduction%20Pillar%20is%20committed%20to%20building%20a%20collaborative%20network%20that%20promotes%20stigma-free%20access%20to%20comprehensive%20harm%20reduction%20services%2C%20supports%20vulnerable%20populations%2C%20and%20advocates%20for%20data-driven%20policies%20to%20enhance%20community%20health%20and%20safety.%3C%2Fspan%3E%3Cbr%20%2F%3E%3Cbr%20%2F%3EThe%20Harm%20Reduction%20Pillar%20meets%20quarterly%20with%20community%20partners%20to%20share%20drug%20and%20overdose%20trends%2C%20provide%20trainings%2C%20and%20solicit%20community%20feedback%20regarding%20ways%20to%20prevent%20harm%20and%20promote%20wellness%20in%20the%20community.%3Cbr%20%2F%3E%3Cbr%20%2F%3EDate%3A%20Second%20Tuesday%20of%20the%20Quarter%20%28January%2014%2C%20April%208%20July%208%2C%20October%2014%29%3Cbr%20%2F%3ETime%3A%209%3A00AM%20-%2011%3A00AM%3Cbr%20%2F%3ELocation%20Hamilton%20County%20Public%20Health%2C%205050%20Section%20Ave.%20Norwood%2C%20OH%2045212",
+"color": "#f04d0f",
+"end": "2025-10-14T11:00:00",
+"duration": "02:00",
+"options": ""
+},
+{
+"title": "Tax Levy Review Committee",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2025-07-09T18:00:00",
+"url": "",
+"location": "Hamilton County Board of Elections, 4700 Smith Rd. Cincinnati, Ohio 45212",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "115",
+"id": "115",
+"desc": "",
+"color": "#663ef2",
+"end": "2025-07-09T19:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-06-12T13:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. 6th Floor, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "117",
+"id": "117",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Todd%20B.%20Portune%20Center%20of%20County%20Government%2C%3Cbr%20%2F%3E138%20East%20Court%20St.%206th%20Floor%2C%20Cincinnati%2C%20OH%2045202%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2025-06-12T14:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "African American Engagement Workgroup - Monthly Meeting",
+"primary_calendar_name": "Addiction Response",
+"calendar_displays": [
+"9"
+],
+"start": "2025-07-17T13:00:00",
+"url": "https://www.hcaaew.com/",
+"location": "Hamilton County Mental Health and Recovery Services, 2350 Auburn Ave Ste 1, Cincinnati, OH 45219",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "118",
+"id": "118",
+"desc": "%3Cdiv%20id%3D%22x_comp-l1c54ulk%22%3E%0A%3Cdiv%3E%0A%3Cp%20class%3D%22x_MsoNormal%22%3E%3Cstrong%3E%3Cspan%20data-olk-copy-source%3D%22MessageBody%22%3EAfrican%20American%20Engagement%20Work%20Group%3C%2Fspan%3E%3C%2Fstrong%3E%3C%2Fp%3E%0A%3C%2Fdiv%3E%0A%3C%2Fdiv%3E%0A%3Cdiv%20id%3D%22x_comp-l1c54ulm%22%3E%0A%3Cdiv%3E%0A%3Cp%20class%3D%22x_MsoNormal%22%3EEstablished%20in%202017%2C%20AAEW%20is%20a%20workgroup%20comprised%20of%20both%20faith-based%20organizations%20and%20community%20agencies%2C%20united%20in%20pursuit%20of%20a%20shared%20objective%3A%20fostering%20awareness%20and%20knowledge%20within%20the%20African-American%20community%20about%20treatment%20resources%20available%20in%20Hamilton%20County%2C%20with%20the%20aim%20of%20lowering%20accidental%20overdose%20rates.%26nbsp%3B%3Cbr%20%2F%3E%3Cbr%20%2F%3EAAEW%20is%20under%20the%20umbrella%20of%20the%20Treatment%20Pillar%20of%20the%20Hamilton%20County%20Addiction%20Response%20Coalition.%20AAEW%20meets%20monthly%20as%20a%20collective%20of%20Faith%20Leaders%20and%20behavioral%20health%20partner%20agencies.%20The%20meetings%20offer%20presentations%20on%20the%20community%27s%20behavioral%20health%20services%2C%20data%20trends%2C%20foster%20dialogue%2C%20and%20promote%20community%20event%20collaborations.%26nbsp%3B%3C%2Fp%3E%0A%3C%2Fdiv%3E%0A%3Cdiv%3E%0A%3Cp%20class%3D%22x_MsoNormal%22%3EMeeting%20Day%3A%20Third%20Thursday%2C%20of%20the%20Month%20%28Exception%20-%20June%2019th%29%3C%2Fp%3E%0A%3C%2Fdiv%3E%0A%3Cdiv%3E%0A%3Cp%20class%3D%22x_MsoNormal%22%3ETime%3A%201%3A00PM%20-%202%3A30PM%3C%2Fp%3E%0A%3C%2Fdiv%3E%0A%3Cdiv%3E%0A%3Cp%20class%3D%22x_MsoNormal%22%3ELocation%3A%20Hamilton%20County%20Mental%20Health%20and%20Recovery%20Services%20Board%3Cbr%20%2F%3E2350%20Auburn%20Ave%2C%20Cincinnati%2C%20OH%2045219%3C%2Fp%3E%0A%3C%2Fdiv%3E%0A%3C%2Fdiv%3E",
+"rrule": "DTSTART:20250717T130000\nRDATE:20250717T130000\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYSETPOS=3;BYDAY=TH",
+"color": "#f04d0f",
+"end": "2025-07-17T14:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Tax Incentive Review Committee",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2025-06-25T09:00:00",
+"url": "",
+"location": "1775 Mentor Avenue, Suite 205, Norwood, Ohio 45212",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "119",
+"id": "119",
+"desc": "",
+"color": "#663ef2",
+"end": "2025-06-25T10:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Public Hearing - Hospital Commission",
+"primary_calendar_name": "Public Hearings",
+"calendar_displays": [
+"2",
+"1"
+],
+"start": "2025-07-08T08:30:00",
+"url": "",
+"location": "Dinsmore & Shohl, LLP, 255 E. 5th Street, Suite 1900, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "120",
+"id": "120",
+"desc": "The%20Hamilton%20County%20Hospital%20Commission%20will%20be%20holding%20a%20public%20hearing%20regarding%20the%20issuance%20of%20Healthcare%20Improvement%20and%20Refunding%20Revenue%20Bonds%20by%20Life%20Enriching%20Communities.%26nbsp%3B%3Cbr%20%2F%3E%3Cbr%20%2F%3EFor%20more%20information%2C%20please%20see%20the%20%3Ca%20target%3D%22_blank%22%20href%3D%22.%2FDocuments%2FGovernment%2FCounty%20Commissioners%2FPublic%20Hearings%2F2025%2FLEC_TEFRA_Notice-070825.pdf%22%3ENotice%20of%20Public%20Hearing%3C%2Fa%3E.%26nbsp%3B",
+"color": "#f04d0f",
+"end": "2025-07-08T09:00:00",
+"duration": "00:30",
+"options": ""
+},
+{
+"title": "Public Hearing - Hospital Commission",
+"primary_calendar_name": "Public Hearings",
+"calendar_displays": [
+"2",
+"1"
+],
+"start": "2025-07-08T08:30:00",
+"url": "",
+"location": "Dinsmore & Shohl, LLP, 255 E. 5th Street, Suite 1900, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "121",
+"id": "121",
+"desc": "The%20Hamilton%20County%20Hospital%20Commission%20will%20be%20holding%20a%20public%20hearing%20regarding%20the%20issuance%20of%20Healthcare%20Improvement%20and%20Refunding%20Revenue%20Bonds%20by%20TriHealth%2C%20Inc.%26nbsp%3B%3Cbr%20%2F%3E%3Cbr%20%2F%3EFor%20more%20information%2C%20please%20see%20the%20%3Ca%20target%3D%22_blank%22%20href%3D%22.%2FDocuments%2FGovernment%2FCounty%20Commissioners%2FPublic%20Hearings%2F2025%2FTriHealth_TEFRA_Notice-070825.pdf%22%3ENotice%20of%20Public%20Hearing%3C%2Fa%3E.",
+"color": "#f04d0f",
+"end": "2025-07-08T09:00:00",
+"duration": "00:30",
+"options": ""
+},
+{
+"title": "Cincinnati Black Music Walk of Fame Induction Ceremony",
+"primary_calendar_name": "Community Event",
+"calendar_displays": [
+"5"
+],
+"start": "2025-07-26T12:00:00",
+"url": "https://www.cincyblackmusicwalkoffame.org/events",
+"location": "Cincinnati Black Music Walk of Fame Induction Ceremony",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "122",
+"id": "122",
+"desc": "Four%20outstanding%20artists%20will%20be%20inducted%20-%20%3Ca%20rel%3D%22noopener%20noreferrer%22%20href%3D%22https%3A%2F%2Fwww.cincyblackmusicwalkoffame.org%2Fartists%2Fsugarfoot-and-the-ohio-players%22%20target%3D%22_blank%22%20data-link-type%3D%22web%22%3EThe%20Ohio%20Players%3C%2Fa%3E%2C%20%3Ca%20rel%3D%22noopener%20noreferrer%22%20href%3D%22https%3A%2F%2Fwww.cincyblackmusicwalkoffame.org%2Fartists%2Fnancy-wilson%22%20target%3D%22_blank%22%20data-link-type%3D%22web%22%3ENancy%20Wilson%3C%2Fa%3E%2C%20%3Ca%20rel%3D%22noopener%20noreferrer%22%20href%3D%22https%3A%2F%2Fwww.cincyblackmusicwalkoffame.org%2Fartists%2Fthe-ojays%22%20target%3D%22_blank%22%20data-link-type%3D%22web%22%3EThe%20O%27%20Jays%2C%3C%2Fa%3E%20and%20%3Ca%20rel%3D%22noopener%20noreferrer%22%20href%3D%22https%3A%2F%2Fwww.cincyblackmusicwalkoffame.org%2Fartists%2Fdottie-peoples%22%20target%3D%22_blank%22%20data-link-type%3D%22web%22%3EDottie%20Peoples%3C%2Fa%3E.",
+"color": "#c636d6",
+"end": "2025-07-26T14:00:00",
+"duration": "02:00",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-07-08T10:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. 6th Floor, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "123",
+"id": "123",
+"desc": "%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2025-07-08T11:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Civil Treatment Workplace for Employees",
+"primary_calendar_name": "HRD",
+"calendar_displays": [
+"8"
+],
+"start": "2025-08-14T08:30:00",
+"url": "https://hamiltoncountyohio.noverant.com/protected/catalog/sessions",
+"location": "Live, virtual instructor-led training",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "124",
+"id": "124",
+"desc": "",
+"color": "#3787d8",
+"end": "2025-08-14T11:00:00",
+"duration": "02:30",
+"options": ""
+},
+{
+"title": "Professional Customer Service for JFS Employees Virtual Training Session (Part 2 of 2)",
+"primary_calendar_name": "HRD",
+"calendar_displays": [
+"8"
+],
+"start": "2025-09-10T08:30:00",
+"url": "https://hamiltoncountyohio.noverant.com/protected/catalog/sessions",
+"location": "Live instructor-led virtual training",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "126",
+"id": "126",
+"desc": "",
+"color": "#3787d8",
+"end": "2025-09-10T10:30:00",
+"duration": "02:00",
+"options": ""
+},
+{
+"title": "Reentry One-Stop Resource Center",
+"primary_calendar_name": "Community Event",
+"calendar_displays": [
+"5"
+],
+"start": "2025-07-25T10:00:00",
+"url": "",
+"location": "Idea Valley View Campus, 1011 Glendale Milford Rd, Cincinnati, OH 45215",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "127",
+"id": "127",
+"desc": "",
+"color": "#c636d6",
+"end": "2025-07-25T13:00:00",
+"duration": "03:00",
+"options": ""
+},
+{
+"title": "Reentry One-Stop Resource Center",
+"primary_calendar_name": "Community Event",
+"calendar_displays": [
+"5",
+"14"
+],
+"start": "2025-08-29T10:00:00",
+"url": "",
+"location": "Winton Hills Recreating Center, 5170 Winneste Ave, Cincinnati, OH 45232",
+"image": "<img src=\"/revize/images/edit/noimage.gif\" alt=\"\"/>",
+"rid": "128",
+"id": "128",
+"desc": "",
+"color": "#c636d6",
+"end": "2025-08-29T13:00:00",
+"duration": "03:00",
+"options": ""
+},
+{
+"title": "Reentry One-Stop Resource Center",
+"primary_calendar_name": "Community Event",
+"calendar_displays": [
+"5",
+"14"
+],
+"start": "2025-09-26T10:00:00",
+"url": "",
+"location": "Hirsch Recreation Center, 3630 Reading Rd, Cincinnati, OH 45229",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "129",
+"id": "129",
+"desc": "",
+"color": "#c636d6",
+"end": "2025-09-26T13:00:00",
+"duration": "03:00",
+"options": ""
+},
+{
+"title": "Reentry One-Stop Resource Center",
+"primary_calendar_name": "Community Event",
+"calendar_displays": [
+"5",
+"14"
+],
+"start": "2025-10-31T10:00:00",
+"url": "",
+"location": "St. Monica Recreation Center, 10022 Chester Rd, Cincinnati OH 45215",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "130",
+"id": "130",
+"desc": "",
+"color": "#c636d6",
+"end": "2025-10-31T13:00:00",
+"duration": "03:00",
+"options": ""
+},
+{
+"title": "America 250 -OH Hamilton County Meeting",
+"primary_calendar_name": "America 250",
+"calendar_displays": [
+"12"
+],
+"start": "2025-07-23T13:00:00",
+"url": "https://maps.app.goo.gl/6HTgfLdJQnKrkPA9A",
+"location": "Cincinnati Museum Center",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "131",
+"id": "131",
+"desc": "",
+"color": "#d8375b",
+"end": "2025-07-23T15:30:00",
+"duration": "02:30",
+"options": ""
+},
+{
+"title": "BoCC Special Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-07-22T11:30:00",
+"url": "",
+"location": "Todd B. Portune Center for County Government, 138 E. Court St., Rm 603, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "132",
+"id": "132",
+"desc": "%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2025-07-22T13:00:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "BoCC Special Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-08-01T16:00:00",
+"url": "",
+"location": "Todd B. Portune Center for County Government, 138 E. Court St., Rm 605, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "143",
+"id": "143",
+"desc": "%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2025-08-01T17:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Military & Veterans Appreciation Day",
+"primary_calendar_name": "Community Event",
+"calendar_displays": [
+"5"
+],
+"start": "2025-08-23T14:00:00",
+"url": "",
+"location": "Sawyer Point",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "144",
+"id": "144",
+"desc": "For%20more%20information%2C%20please%20%3Ca%20href%3D%22news_detail_T24_R39.php%22%20target%3D%22_blank%22%3Eclick%20here%20to%20view%20the%20news%20article%20%22Military%20%26amp%3B%20Veterans%20Appreciation%20Day%3A%20Celebration%20Coming%20August%2023%22%3C%2Fa%3E.",
+"color": "#c536d6",
+"end": "2025-08-23T22:00:00",
+"duration": "08:00",
+"options": ""
+},
+{
+"title": "Public Hearing - Hospital Commission",
+"primary_calendar_name": "Public Hearings",
+"calendar_displays": [
+"2",
+"3"
+],
+"start": "2025-09-10T08:30:00",
+"url": "",
+"location": "Dinsmore & Shohl, LLP, 255 E. 5th Street, Suite 1900, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "146",
+"id": "146",
+"desc": "The%20Hamilton%20County%20Hospital%20Commission%20will%20be%20holding%20a%20public%20hearing%20regarding%20the%20issuance%20of%20Revenue%20Bonds%20by%20CommonSpirit%20Health.%26nbsp%3B%3Cbr%20%2F%3E%3Cbr%20%2F%3EFor%20more%20information%2C%20please%20see%20the%20%3Ca%20target%3D%22_blank%22%20href%3D%22.%2FDocuments%2FGovernment%2FCounty%20Commissioners%2FPublic%20Hearings%2F2025%2FCommonSpirit_TEFRA_Notice-091025.pdf%22%3ENotice%20of%20Public%20Hearing%3C%2Fa%3E.",
+"color": "#d61d46",
+"end": "2025-09-10T09:30:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Special Meeting - Commissioners Budget Forum for 2025-2026",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-09-30T10:00:00",
+"url": "",
+"location": "Memorial Hall ORT, Memorial Hall, 1225 Elm St. Cincinnati, Ohio 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "147",
+"id": "147",
+"desc": "%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E%0A%3Cdiv%20id%3D%22lt-accessibility-devtools%22%20aria-hidden%3D%22true%22%3E%3C%2Fdiv%3E",
+"color": "#009dff",
+"end": "2025-09-30T11:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Convention Facilities Authority",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2025-09-19T13:00:00",
+"url": "",
+"location": "Duke Energy Convention Center, 525 Elm Street Cincinnati, Ohio 4520",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "149",
+"id": "149",
+"desc": "%3Ca%20href%3D%22business_detail_T22_R12.php%22%20target%3D%22_blank%22%3EClick%20here%20for%20more%20information%3C%2Fa%3E.",
+"color": "#663ef2",
+"end": "2025-09-19T14:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Conservation District Annual Meeting",
+"primary_calendar_name": "Conservation District",
+"calendar_displays": [
+"16",
+"5"
+],
+"start": "2025-10-27T17:00:00",
+"url": "https://www.hcswcd.org/annual-meeting.html",
+"location": "MadTree Parks & Rec, 4321 Glendale Milford, Road &#8203;Blue Ash, OH 45242",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "150",
+"id": "150",
+"desc": "Please%20see%20the%20%3Ca%20href%3D%22https%3A%2F%2Fwww.hcswcd.org%2Fannual-meeting.html%22%20target%3D%22_blank%22%3EConservation%20District%20website%3C%2Fa%3E%20for%20more%20information.",
+"color": "#17da99",
+"end": "2025-10-27T20:00:00",
+"duration": "03:00",
+"options": ""
+},
+{
+"title": "America 250-Ohio Hamilton County Meeting",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3",
+"12"
+],
+"start": "2025-10-21T13:00:00",
+"url": "business_detail_T22_R6.php",
+"location": "Hamilton County Environmental Services,&#160; 250 William Howard Taft Rd., Corryville, OH 45219",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "151",
+"id": "151",
+"desc": "The%20meeting%20will%20be%20held%20in%20the%20conference%20room%20on%20the%20first%20floor.%20Free%20parking%20onsite%2C%20behind%20the%20building-enter%20through%20the%20front%20of%20the%20building%20to%20access%20the%20ES%20Conference%20Room",
+"color": "#663ef2",
+"end": "2025-10-21T14:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Public Hearing - Hospital Commission",
+"primary_calendar_name": "Public Hearings",
+"calendar_displays": [
+"2",
+"3"
+],
+"start": "2025-10-14T08:30:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "152",
+"id": "152",
+"desc": "The%20Hamilton%20County%20Hospital%20Commission%20will%20be%20holding%20a%20public%20hearing%20regarding%20the%20reissuance%20of%20Revenue%20Refunding%20Bonds%20by%20Christ%20Hospital.%26nbsp%3B%3Cbr%20%2F%3E%3Cbr%20%2F%3EFor%20more%20information%2C%20please%20see%20the%20%3Ca%20target%3D%22_blank%22%20href%3D%22.%2FDocuments%2FGovernment%2FCounty%20Commissioners%2FPublic%20Hearings%2F2025%2FChristHospital_Notice-101425.pdf%22%3ENotice%20of%20Public%20Hearing%3C%2Fa%3E.",
+"color": "#d61d46",
+"end": "2025-10-14T09:30:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-11-12T13:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. 6th Floor, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "154",
+"id": "154",
+"desc": "%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E%0A%3Cdiv%20id%3D%22lt-accessibility-devtools%22%20aria-hidden%3D%22true%22%3E%3C%2Fdiv%3E",
+"color": "#009dff",
+"end": "2025-11-12T14:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Accessibility Advisory Board Meeting",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2025-10-27T16:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "155",
+"id": "155",
+"desc": "%3Ch3%3EVirtual%20Meeting%20Info%3C%2Fh3%3E%0A%26nbsp%3B%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_NzdhYzNkYTQtNWQ2Ny00MjkyLWEyYWEtZDU2MGQzMDBhZjZi%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252282e8c4cb-c472-4190-a728-130097a419bc%2522%252c%2522Oid%2522%253a%2522b7470336-2292-4f7b-a16b-2955cc91e763%2522%257d%22%20target%3D%22_blank%22%3EClick%20to%20join%20the%20meeting%26nbsp%3B%3C%2Fa%3E%3Cbr%20%2F%3EMeeting%20ID%3A%20289%20169%20551%20899%206%26nbsp%3B%3Cbr%20%2F%3EPasscode%3A%20Sy9Kz3TF%26nbsp%3B%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Cbr%20%2F%3EPlease%20see%20the%20%3Ca%20href%3D%22business_detail_T22_R581.php%22%20target%3D%22_blank%22%3EHamilton%20County%20Accessibility%20Advisory%20Board%3C%2Fa%3E%20for%20more%20information.",
+"color": "#663ef2",
+"end": "2025-10-27T17:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Storm Drainage Variance and Appeals Board Annual Meeting",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2025-11-05T10:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. Room 805, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "158",
+"id": "158",
+"desc": "Please%20see%20the%20%3Ca%20href%3D%22business_detail_T22_R34.php%22%20target%3D%22_blank%22%3EStorm%20Drainage%20Variance%20and%20Appeals%20Board%3C%2Fa%3E%20page%20for%20more%20information.",
+"color": "#663ef2",
+"end": "2025-11-05T11:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "BoCC Special Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-12-09T18:00:00",
+"url": "",
+"location": "Hamilton County Board of Elections, 4700 Smith Road, Norwood, Ohio 45212",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "160",
+"id": "160",
+"desc": "2026%20Administrator%26rsquo%3Bs%20Recommended%20Budget%20Hearing%20%26amp%3B%202026%20MSD%20Budget%20Hearing%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E%0A%3Cdiv%20id%3D%22lt-accessibility-devtools%22%20aria-hidden%3D%22true%22%3E%3C%2Fdiv%3E",
+"color": "#009dff",
+"end": "2025-12-09T19:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Public Hearing - 2026 Administrator&#8217;s Recommended Budget",
+"primary_calendar_name": "Public Hearings",
+"calendar_displays": [
+"2",
+"1"
+],
+"start": "2025-12-02T10:00:00",
+"url": "",
+"location": "Todd B. Portune Center for County Government, Room 605, 138 E. Court Street, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "161",
+"id": "161",
+"desc": "For%20more%20information%2C%20please%20see%20the%20%3Ca%20href%3D%22..%2Fgovernment%2Fcounty_commissioners%2Fpublic_hearings.php%22%20target%3D%22_blank%22%3EPublic%20Hearings%20page%3C%2Fa%3E.",
+"color": "#d61d46",
+"end": "2025-12-02T11:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Public Hearing - 2026 Administrator's Recommended Budget",
+"primary_calendar_name": "Public Hearings",
+"calendar_displays": [
+"2",
+"1"
+],
+"start": "2025-12-09T18:00:00",
+"url": "",
+"location": "Board of Elections, 4700 Smith Road, Norwood, OH 45212",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "162",
+"id": "162",
+"desc": "For%20more%20information%2C%20please%20see%20the%20%3Ca%20href%3D%22..%2Fgovernment%2Fcounty_commissioners%2Fpublic_hearings.php%22%20target%3D%22_blank%22%3EPublic%20Hearings%20page%3C%2Fa%3E.",
+"color": "#d61d46",
+"end": "2025-12-09T19:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Canceled - Accessibility Advisory Board Meeting",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2025-12-15T17:00:00",
+"url": "",
+"location": "Hamilton County Board of Elections, 4700 Smith Road, Norwood, Ohio 45212",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "163",
+"id": "163",
+"desc": "Please%20see%20the%20%3Ca%20href%3D%22business_detail_T22_R581.php%22%20target%3D%22_blank%22%3EHamilton%20County%20Accessibility%20Advisory%20Board%3C%2Fa%3E%20for%20more%20information.",
+"color": "#663ef2",
+"end": "2025-12-15T18:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "BoCC Staff Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-12-09T10:00:00",
+"url": "",
+"location": "Todd B. Portune Center for County Government, Room 605, 138 E. Court Street, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "164",
+"id": "164",
+"desc": "%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2025-12-09T11:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Storm Drainage Variance and Appeals Board Annual Meeting",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2025-11-19T09:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St., Room 805, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "165",
+"id": "165",
+"desc": "Please%20see%20the%20%3Ca%20href%3D%22business_detail_T22_R34.php%22%20target%3D%22_blank%22%3EStorm%20Drainage%20Variance%20and%20Appeals%20Board%3C%2Fa%3E%20page%20for%20more%20information.",
+"color": "#663ef2",
+"end": "2025-11-19T10:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "(Canceled) Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-12-04T10:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. 6th Floor, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "166",
+"id": "166",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Todd%20B.%20Portune%20Center%20of%20County%20Government%2C%3Cbr%20%2F%3E138%20East%20Court%20St.%206th%20Floor%2C%20Cincinnati%2C%20OH%2045202%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2025-12-04T11:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Canceled - BoCC Staff Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-12-23T10:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. 6th Floor, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "167",
+"id": "167",
+"desc": "%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E%0A%3Cdiv%20id%3D%22lt-accessibility-devtools%22%20aria-hidden%3D%22true%22%3E%3C%2Fdiv%3E",
+"color": "#009dff",
+"end": "2025-12-23T11:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Canceled - BoCC Staff Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2025-12-30T10:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. 6th Floor, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "168",
+"id": "168",
+"desc": "%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E%0A%3Cdiv%20id%3D%22lt-accessibility-devtools%22%20aria-hidden%3D%22true%22%3E%3C%2Fdiv%3E",
+"color": "#009dff",
+"end": "2025-12-30T11:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2026-01-15T10:00:00",
+"url": "",
+"location": "Todd B. Portune Center for County Government, Room 605, 138 E. Court Street, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "169",
+"id": "169",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Todd%20B.%20Portune%20Center%20of%20County%20Government%2C%3Cbr%20%2F%3E138%20East%20Court%20St.%206th%20Floor%2C%20Cincinnati%2C%20OH%2045202%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"rrule": "DTSTART:20260115T100000\nRDATE:20260115T100000\nRRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH;UNTIL=20261231T000000\nEXDATE:20261126T100000\nEXDATE:20260212T100000\nEXDATE:20260312T100000\nEXDATE:20260409T100000\nEXDATE:20260514T100000\nEXDATE:20260528T100000\nEXDATE:20260611T100000\nEXDATE:20260625T100000\nEXDATE:20260709T100000\nEXDATE:20260723T100000\nEXDATE:20260806T100000\nEXDATE:20260820T100000\nEXDATE:20260903T100000\nEXDATE:20260326T100000\nEXDATE:20260521T100000\nEXDATE:20260618T100000\nEXDATE:20260702T100000\nEXDATE:20260716T100000\nEXDATE:20260910T100000\nEXDATE:20260813T100000",
+"color": "#009dff",
+"end": "2026-01-15T11:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2026-01-08T13:00:00",
+"url": "",
+"location": "Todd B. Portune Center for County Government, Room 605, 138 E. Court Street, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "170",
+"id": "170",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Todd%20B.%20Portune%20Center%20of%20County%20Government%2C%3Cbr%20%2F%3E138%20East%20Court%20St.%206th%20Floor%2C%20Cincinnati%2C%20OH%2045202%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2026-01-08T14:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "BoCC Staff Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2026-01-13T10:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "171",
+"id": "171",
+"desc": "%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E%0A%3Cdiv%20id%3D%22lt-accessibility-devtools%22%20aria-hidden%3D%22true%22%3E%3C%2Fdiv%3E",
+"rrule": "DTSTART:20260113T100000\nRDATE:20260113T100000\nRRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20261231T000000\nEXDATE:20260203T100000\nEXDATE:20260210T100000\nEXDATE:20260526T100000\nEXDATE:20260609T100000\nEXDATE:20260623T100000\nEXDATE:20260707T100000\nEXDATE:20260721T100000\nEXDATE:20260804T100000\nEXDATE:20260818T100000\nEXDATE:20260901T100000\nEXDATE:20260908T100000\nEXDATE:20260224T100000\nEXDATE:20260303T100000\nEXDATE:20260505T100000\nEXDATE:20260310T100000\nEXDATE:20260428T100000\nEXDATE:20260630T100000\nEXDATE:20260811T100000",
+"color": "#009dff",
+"end": "2026-01-13T11:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "BoCC Organizational Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2026-01-06T10:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "172",
+"id": "172",
+"desc": "%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2026-01-06T11:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Independence Day (Observed)",
+"primary_calendar_name": "BoCC Holidays",
+"calendar_displays": [
+"4"
+],
+"start": "2026-07-03T00:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "174",
+"id": "174",
+"desc": "",
+"color": "#17da99",
+"allDay": true,
+"options": ""
+},
+{
+"title": "America 250-Ohio Hamilton County Committee",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3",
+"12"
+],
+"start": "2026-01-20T13:00:00",
+"url": "",
+"location": "Cincinnati Hamilton County Public Library Walnut Hills Branch 2533 Kemper Lane, Cincinnati, Ohio 45206",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "175",
+"id": "175",
+"desc": "%3Cbr%20%2F%3EPlease%20see%20the%20%3Ca%20href%3D%22business_detail_T22_R6.php%22%20target%3D%22_blank%22%3EAmerica%20250-Ohio%20Hamilton%20County%20Committee%20page%3C%2Fa%3E%20for%20more%20information.",
+"color": "#663ef2",
+"end": "2026-01-20T14:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "America 250-Ohio Hamilton County Committee",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3",
+"12"
+],
+"start": "2026-02-17T13:00:00",
+"url": "",
+"location": "Great Parks Sharon Woods, Primary Visitor Center Auditorium, 11450 Lebanon Road, Sharonville, Ohio 45241",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "176",
+"id": "176",
+"desc": "%3Cbr%20%2F%3EPlease%20see%20the%20%3Ca%20href%3D%22business_detail_T22_R6.php%22%20target%3D%22_blank%22%3EAmerica%20250-Ohio%20Hamilton%20County%20Committee%20page%3C%2Fa%3E%20for%20more%20information.",
+"color": "#663ef2",
+"end": "2026-02-17T14:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "America 250-Ohio Hamilton County Committee",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3",
+"12"
+],
+"start": "2026-03-17T13:00:00",
+"url": "",
+"location": "Cincinnati Hamilton County Public Library Forest Park Branch 660 Northland Blvd., Cincinnati, Ohio 45240",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "177",
+"id": "177",
+"desc": "%3Cbr%20%2F%3EPlease%20see%20the%20%3Ca%20href%3D%22business_detail_T22_R6.php%22%20target%3D%22_blank%22%3EAmerica%20250-Ohio%20Hamilton%20County%20Committee%20page%3C%2Fa%3E%20for%20more%20information.",
+"color": "#663ef2",
+"end": "2026-03-17T14:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Board of Zoning Appeals",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2026-01-14T13:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. Room 805, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "178",
+"id": "178",
+"desc": "%3Cbr%20%2F%3EFor%20more%20information%2C%20please%20visit%20the%20%3Ca%20href%3D%22business_detail_T22_R39.php%22%20target%3D%22_blank%22%3EBoard%20of%20Zoning%20Appeals%3C%2Fa%3E%20page.",
+"rrule": "DTSTART:20260114T130000\nRDATE:20260114T130000\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYSETPOS=2;BYDAY=WE;UNTIL=20261231T000000\nEXDATE:20261111T130000",
+"color": "#663ef2",
+"end": "2026-01-14T15:00:00",
+"duration": "02:00",
+"options": ""
+},
+{
+"title": "Board of Zoning Appeals",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2026-11-10T13:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. Room 805, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "180",
+"id": "180",
+"desc": "%3Cbr%20%2F%3EFor%20more%20information%2C%20please%20visit%20the%20%3Ca%20href%3D%22business_detail_T22_R39.php%22%20target%3D%22_blank%22%3EBoard%20of%20Zoning%20Appeals%3C%2Fa%3E%20page.",
+"color": "#663ef2",
+"end": "2026-11-10T15:00:00",
+"duration": "02:00",
+"options": ""
+},
+{
+"title": "Regional Planning Commission",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2026-01-08T13:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St., Room 805, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "181",
+"id": "181",
+"desc": "%3Cbr%20%2F%3EFor%20more%20information%2C%20please%20visit%20the%20%3Ca%20href%3D%22business_detail_T22_R29.php%22%20target%3D%22_blank%22%3ERegional%20Planning%20Commission%3C%2Fa%3E%20page.%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Cbr%20%2F%3E%0A%3Cdiv%20id%3D%22lt-accessibility-devtools%22%20aria-hidden%3D%22true%22%3E%3C%2Fdiv%3E",
+"rrule": "DTSTART:20260108T130000\nRDATE:20260108T130000\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYSETPOS=1;BYDAY=TH;UNTIL=20261231T000000",
+"color": "#663ef2",
+"end": "2026-01-08T15:00:00",
+"duration": "02:00",
+"options": ""
+},
+{
+"title": "Rural Zoning Commission",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2026-01-15T13:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St., Room 805, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "182",
+"id": "182",
+"desc": "%3Cbr%20%2F%3EFor%20more%20information%2C%20please%20visit%20the%20%3Ca%20href%3D%22business_detail_T22_R31.php%22%20target%3D%22_blank%22%3ERural%20Zoning%20Commission%3C%2Fa%3E%20page.",
+"rrule": "DTSTART:20260115T130000\nRDATE:20260115T130000\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYSETPOS=3;BYDAY=TH;UNTIL=20261231T000000",
+"color": "#663ef2",
+"end": "2026-01-15T15:00:00",
+"duration": "02:00",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2026-02-12T13:00:00",
+"url": "",
+"location": "Todd B. Portune Center for County Government, Room 605, 138 E. Court Street, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "183",
+"id": "183",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Todd%20B.%20Portune%20Center%20of%20County%20Government%2C%3Cbr%20%2F%3E138%20East%20Court%20St.%206th%20Floor%2C%20Cincinnati%2C%20OH%2045202%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2026-02-12T14:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2026-03-10T10:00:00",
+"url": "",
+"location": "Todd B. Portune Center for County Government, Room 605, 138 E. Court Street, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "184",
+"id": "184",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Todd%20B.%20Portune%20Center%20of%20County%20Government%2C%3Cbr%20%2F%3E138%20East%20Court%20St.%206th%20Floor%2C%20Cincinnati%2C%20OH%2045202%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2026-03-10T11:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2026-04-09T13:00:00",
+"url": "",
+"location": "Todd B. Portune Center for County Government, Room 605, 138 E. Court Street, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "185",
+"id": "185",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Todd%20B.%20Portune%20Center%20of%20County%20Government%2C%3Cbr%20%2F%3E138%20East%20Court%20St.%206th%20Floor%2C%20Cincinnati%2C%20OH%2045202%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2026-04-09T14:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2026-05-14T13:00:00",
+"url": "",
+"location": "Todd B. Portune Center for County Government, Room 605, 138 E. Court Street, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "186",
+"id": "186",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Todd%20B.%20Portune%20Center%20of%20County%20Government%2C%3Cbr%20%2F%3E138%20East%20Court%20St.%206th%20Floor%2C%20Cincinnati%2C%20OH%2045202%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2026-05-14T14:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Board of Building Appeals",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2026-01-07T09:15:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St., Room 805, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "189",
+"id": "189",
+"desc": "%3Cbr%20%2F%3EFor%20more%20information%2C%20please%20visit%20the%20%3Ca%20href%3D%22business_detail_T22_R7.php%22%20target%3D%22_blank%22%3EBoard%20of%20Building%20Appeals%3C%2Fa%3E%20page.",
+"rrule": "DTSTART:20260107T091500\nRDATE:20260107T091500\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYSETPOS=1;BYDAY=WE;UNTIL=20261231T000000",
+"color": "#663ef2",
+"end": "2026-01-07T11:30:00",
+"duration": "02:15",
+"options": ""
+},
+{
+"title": "Convention Facilities Authority",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2026-02-06T13:00:00",
+"url": "",
+"location": "Sharonville Convention Center, 11355 Chester Road, Cincinnati, OH 45246",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "194",
+"id": "194",
+"desc": "%3Cdiv%20id%3D%22lt-accessibility-devtools%22%20aria-hidden%3D%22true%22%3E%3C%2Fdiv%3E%0A%3Ca%20href%3D%22business_detail_T22_R12.php%22%20target%3D%22_blank%22%3EClick%20here%20for%20more%20information%3C%2Fa%3E.",
+"color": "#663ef2",
+"end": "2026-02-06T14:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Canceled - BoCC Staff Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2026-02-03T10:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "197",
+"id": "197",
+"desc": "%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E%0A%3Cdiv%20id%3D%22lt-accessibility-devtools%22%20aria-hidden%3D%22true%22%3E%3C%2Fdiv%3E",
+"color": "#009dff",
+"end": "2026-02-03T11:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "1st Half Property Tax Bills Due",
+"primary_calendar_name": "Community Event",
+"calendar_displays": [
+"5"
+],
+"start": "2026-02-10T00:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "199",
+"id": "199",
+"desc": "For%20more%20information%2C%20visit%20the%20%3Ca%20href%3D%22..%2Fgovernment%2Fdepartments%2Ftreasurer%2Findex.php%22%20target%3D%22_blank%22%3ETreasurer%27s%20Office%20homepage%3C%2Fa%3E.",
+"color": "#c536d6",
+"allDay": true,
+"options": ""
+},
+{
+"title": "Canceled - BoCC Staff Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2026-02-10T10:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "202",
+"id": "202",
+"desc": "%3Cdiv%20id%3D%22lt-accessibility-devtools%22%20aria-hidden%3D%22true%22%3E%3C%2Fdiv%3E",
+"color": "#009dff",
+"end": "2026-02-10T11:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Memorial Day",
+"primary_calendar_name": "BoCC Holidays",
+"calendar_displays": [
+"4"
+],
+"start": "2026-05-25T00:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "204",
+"id": "204",
+"desc": "",
+"rrule": "DTSTART:20260525T000000\nRDATE:20260525T000000\nRRULE:FREQ=YEARLY;BYSETPOS=-1;BYDAY=MO;BYMONTH=5",
+"color": "#17da99",
+"allDay": true,
+"options": ""
+},
+{
+"title": "Accessibility Advisory Board Meeting",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2026-03-16T16:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "222",
+"id": "222",
+"desc": "%3Cbr%20%2F%3EYou%20can%20join%20the%20meeting%20with%20the%20following%20link%20and%20meeting%20information%20-%20%3Cu%3E%3Ca%20rel%3D%22noopener%22%20href%3D%22https%3A%2F%2Fteams.microsoft.com%2Fmeet%2F25999183447284%3Fp%3DAZVLULGdpOcVmuaps1%22%20target%3D%22_blank%22%3EMicrosoft%20Teams%20Meeting%20link%3C%2Fa%3E%3C%2Fu%3E%3Cbr%20%2F%3EMeeting%20ID%3A%20259%20991%20834%20472%2084%3Cbr%20%2F%3EPasscode%3A%20Up7ki3ar%3Cbr%20%2F%3E%3Cbr%20%2F%3EPlease%20see%20the%20%3Ca%20href%3D%22business_detail_T22_R581.php%22%20target%3D%22_blank%22%3EHamilton%20County%20Accessibility%20Advisory%20Board%20page%3C%2Fa%3E%20for%20more%20information.",
+"rrule": "DTSTART:20260316T160000\nRDATE:20260316T160000\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYSETPOS=3;BYDAY=MO;UNTIL=20261228T000000",
+"color": "#663ef2",
+"end": "2026-03-16T17:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Canceled - BoCC Staff Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2026-02-24T10:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "223",
+"id": "223",
+"desc": "%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E%0A%3Cdiv%20id%3D%22lt-accessibility-devtools%22%20aria-hidden%3D%22true%22%3E%3C%2Fdiv%3E",
+"color": "#009dff",
+"end": "2026-02-24T11:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Canceled - BoCC Staff Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2026-03-03T10:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "224",
+"id": "224",
+"desc": "%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E%0A%3Cdiv%20id%3D%22lt-accessibility-devtools%22%20aria-hidden%3D%22true%22%3E%3C%2Fdiv%3E",
+"color": "#009dff",
+"end": "2026-03-03T11:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Canceled - Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2026-03-26T10:00:00",
+"url": "",
+"location": "Todd B. Portune Center for County Government, Room 605, 138 E. Court Street, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "225",
+"id": "225",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Todd%20B.%20Portune%20Center%20of%20County%20Government%2C%3Cbr%20%2F%3E138%20East%20Court%20St.%206th%20Floor%2C%20Cincinnati%2C%20OH%2045202%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2026-03-26T11:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Canceled - BoCC Staff Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2026-05-05T10:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "226",
+"id": "226",
+"desc": "%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E%0A%3Cdiv%20id%3D%22lt-accessibility-devtools%22%20aria-hidden%3D%22true%22%3E%3C%2Fdiv%3E",
+"color": "#009dff",
+"end": "2026-05-05T11:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Tax Levy Review Committee",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2026-03-02T18:00:00",
+"url": "",
+"location": "1701 Patricia McCollum Way, Bond Hill, Ohio 45237",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "227",
+"id": "227",
+"desc": "%3Cbr%20%2F%3EPlease%20see%20the%20%3Ca%20href%3D%22business_detail_T22_R37.php%22%20target%3D%22_blank%22%3ETax%20Levy%20Review%20Committee%20page%3C%2Fa%3E%20for%20more%20information.",
+"rrule": "DTSTART:20260302T180000\nRDATE:20260302T180000\nRRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20260511T000000\nEXDATE:20260316T180000\nEXDATE:20260323T180000\nEXDATE:20260330T180000\nEXDATE:20260406T180000\nEXDATE:20260413T180000\nEXDATE:20260504T180000",
+"color": "#663ef2",
+"end": "2026-03-02T19:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "513Relief Bus - Everything Hamilton County",
+"primary_calendar_name": "Community Event",
+"calendar_displays": [
+"5"
+],
+"start": "2026-03-04T10:00:00",
+"url": "",
+"location": "Corinthian Baptist Church, 1920 Tennessee Ave, Cincinnati, OH 45237",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "228",
+"id": "228",
+"desc": "The%20Hamilton%20County%20513Relief%20Bus%20will%20kick%20off%20its%20fifth%20year%20of%20the%20program%20on%20Wednesday%2C%20March%204%20with%20its%20300th%20stop%20at%20%22Everything%20Hamilton%20County.%22%3Cbr%20%2F%3E%3Cbr%20%2F%3EResidents%20will%20have%20access%20to%20a%20wide%20range%20of%20free%20services%2C%20including%20health%20screenings%2C%20fresh%20produce%2C%20veterans%20services%2C%20employment%20opportunities%2C%20and%20more.%3Cbr%20%2F%3E%3Cbr%20%2F%3EHamilton%20County%20departments%20will%20be%20on-site%20alongside%20community%20partners%20to%20provide%20direct%20support.",
+"color": "#c536d6",
+"end": "2026-03-04T14:00:00",
+"duration": "04:00",
+"options": ""
+},
+{
+"title": "State of the County",
+"primary_calendar_name": "Community Event",
+"calendar_displays": [
+"5",
+"1"
+],
+"start": "2026-03-03T18:00:00",
+"url": "",
+"location": "Memorial Hall, 1225 Elm St, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "229",
+"id": "229",
+"desc": "Hamilton%20County%20Commission%20President%20Stephanie%20Summerow%20Dumas%20cordially%20invites%20you%20to%20attend%20the%202026%20State%20of%20the%20County%20Address.%20Please%20see%20the%20%3Ca%20href%3D%22..%2Fgovernment%2Fcounty_commissioners%2Fstate_of_the_county.php%22%20target%3D%22_blank%22%3EState%20of%20the%20County%20page%3C%2Fa%3E%20for%20more%20information.%3Cbr%20%2F%3E",
+"color": "#c536d6",
+"end": "2026-03-03T20:00:00",
+"duration": "02:00",
+"options": ""
+},
+{
+"title": "Wear Blue Day",
+"primary_calendar_name": "Community Event",
+"calendar_displays": [
+"5",
+"4"
+],
+"start": "2026-04-08T00:00:00",
+"url": "",
+"location": "",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "232",
+"id": "232",
+"desc": "For%20more%20information%2C%20please%20view%20the%20%3Ca%20href%3D%22news_detail_T24_R135.php%22%20target%3D%22_blank%22%3Enews%20release%3C%2Fa%3E.",
+"color": "#c536d6",
+"allDay": true,
+"options": ""
+},
+{
+"title": "Public Hearing - Hospital Commission",
+"primary_calendar_name": "Public Hearings",
+"calendar_displays": [
+"2",
+"3"
+],
+"start": "2026-04-14T08:30:00",
+"url": "",
+"location": "255 East 5th Street, 19th Floor, Cincinnati, Ohio 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "233",
+"id": "233",
+"desc": "The%20Hamilton%20County%20Hospital%20Commission%20will%20be%20holding%20a%20public%20hearing%20regarding%20the%20issuance%20of%20Healthcare%20Facilities%20Improvement%20and%20Refunding%20Revenue%20Bonds%20by%20Christ%20Hospital.%26nbsp%3B%3Cbr%20%2F%3E%3Cbr%20%2F%3EFor%20more%20information%2C%20please%20see%20the%20%3Ca%20target%3D%22_blank%22%20href%3D%22.%2FDocuments%2FGovernment%2FCounty%20Commissioners%2FPublic%20Hearings%2F2026%2FChristHospital_Notice-040626.pdf%22%3ENotice%20of%20Public%20Hearing%3C%2Fa%3E.",
+"color": "#d61d46",
+"end": "2026-04-14T09:30:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "BoCC Staff Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2026-04-28T18:00:00",
+"url": "",
+"location": "1701 Patricia McCollum Way, Cincinnati, Ohio 45237",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "235",
+"id": "235",
+"desc": "%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E%0A%3Cdiv%20id%3D%22lt-accessibility-devtools%22%20aria-hidden%3D%22true%22%3E%3C%2Fdiv%3E",
+"color": "#009dff",
+"end": "2026-04-28T19:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Reentry One Stop",
+"primary_calendar_name": "Reentry",
+"calendar_displays": [
+"14",
+"5"
+],
+"start": "2026-04-24T10:00:00",
+"url": "",
+"location": "Hirsch Recreation Center",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "237",
+"id": "237",
+"desc": "%3Cstrong%3EThe%20Hamilton%20County%20One%20Stop%20%3C%2Fstrong%3Eeliminates%20barriers%20to%20accessing%20supportive%20services%20for%20all%20Hamilton%20County%20residents%2C%20including%20those%20with%20criminal%20convictions.%3Cbr%20%2F%3E%3Cbr%20%2F%3EOne%20Stop%20occurs%20at%20a%20different%20location%20on%20the%20last%20Friday%20of%20each%20month%2C%20April-October%2C%20from%2010%20am%20to%201%20pm%20alongside%20the%20513Relief%20Bus%20to%20maximize%20access%20to%20resources.%3Cbr%20%2F%3E%3Cbr%20%2F%3EYou%20will%20be%20able%20to%20meet%20directly%20with%20service%20providers%20for%20help%20such%20as%20vital%20records%2C%20personal%20identification%2C%20substance%20abuse%20and%20mental%20health%20care%2C%20child%20support%20concerns%2C%20housing%2C%20record%20sealing%20or%20expungement%2C%20and%20health%20care.%20When%20you%20visit%20the%20One%20Stop%20you%20can%20expect%20to%20learn%20more%20about%20about%20resources%20to%20help%20you%20move%20forward%20and%20set%20up%20an%20appointment%20with%20a%20provider%20to%20begin%20the%20intake%20process%2C%20resolve%20issues%20or%20meet%20service%20related%20conditions%20of%20release.",
+"color": "#c636d6",
+"end": "2026-04-24T13:00:00",
+"duration": "03:00",
+"options": ""
+},
+{
+"title": "Reentry One Stop",
+"primary_calendar_name": "Reentry",
+"calendar_displays": [
+"14",
+"5"
+],
+"start": "2026-05-29T10:00:00",
+"url": "",
+"location": "St. Monica's Recreation Center, 10022 Chester Road, Cincinnati OH 45215",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "238",
+"id": "238",
+"desc": "",
+"color": "#c636d6",
+"end": "2026-05-29T13:00:00",
+"duration": "03:00",
+"options": ""
+},
+{
+"title": "Reentry One Stop",
+"primary_calendar_name": "Reentry",
+"calendar_displays": [
+"14",
+"5"
+],
+"start": "2026-06-26T10:00:00",
+"url": "https://www.hamiltoncountyohio.gov/government/departments/reentry/one_stop_resource_center.php",
+"location": "Goodwill, 10600 Springfield Pike, Cincinnati OH 45215",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "239",
+"id": "239",
+"desc": "%3Cstrong%3EOne%20Stop%20occurs%20at%20a%20different%20location%20on%20the%20last%20Friday%20of%20each%20month%2C%20April-October%2C%20from%2010%20am%20to%201%20pm%20alongside%20the%20513Relief%20Bus%20to%20maximize%20access%20to%20resources.%3C%2Fstrong%3E%3Cbr%20%2F%3E%3Cbr%20%2F%3EYou%20will%20be%20able%20to%20meet%20directly%20with%20service%20providers%20for%20help%20such%20as%20vital%20records%2C%20personal%20identification%2C%20substance%20abuse%20and%20mental%20health%20care%2C%20child%20support%20concerns%2C%20housing%2C%20record%20sealing%20or%20expungement%2C%20and%20health%20care.%20When%20you%20visit%20the%20One%20Stop%20you%20can%20expect%20to%20learn%20more%20about%20about%20resources%20to%20help%20you%20move%20forward%20and%20set%20up%20an%20appointment%20with%20a%20provider%20to%20begin%20the%20intake%20process%2C%20resolve%20issues%20or%20meet%20service%20related%20conditions%20of%20release.",
+"color": "#c636d6",
+"end": "2026-06-26T13:00:00",
+"duration": "03:00",
+"options": ""
+},
+{
+"title": "Reentry One Stop",
+"primary_calendar_name": "Reentry",
+"calendar_displays": [
+"14",
+"5"
+],
+"start": "2026-07-31T10:00:00",
+"url": "https://www.hamiltoncountyohio.gov/government/departments/reentry/one_stop_resource_center.php",
+"location": "Hamilton County Justice Center",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "240",
+"id": "240",
+"desc": "",
+"color": "#c636d6",
+"end": "2026-07-31T13:00:00",
+"duration": "03:00",
+"options": ""
+},
+{
+"title": "Reentry One Stop",
+"primary_calendar_name": "Reentry",
+"calendar_displays": [
+"14",
+"5"
+],
+"start": "2026-08-28T10:00:00",
+"url": "https://www.hamiltoncountyohio.gov/government/departments/reentry/one_stop_resource_center.php",
+"location": "College Hill Recreation Center",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "241",
+"id": "241",
+"desc": "%3Cstrong%3EOne%20Stop%20occurs%20at%20a%20different%20location%20on%20the%20last%20Friday%20of%20each%20month%2C%20April-October%2C%20from%2010%20am%20to%201%20pm%20alongside%20the%20513Relief%20Bus%20to%20maximize%20access%20to%20resources.%3C%2Fstrong%3E%3Cbr%20%2F%3E%3Cbr%20%2F%3EYou%20will%20be%20able%20to%20meet%20directly%20with%20service%20providers%20for%20help%20such%20as%20vital%20records%2C%20personal%20identification%2C%20substance%20abuse%20and%20mental%20health%20care%2C%20child%20support%20concerns%2C%20housing%2C%20record%20sealing%20or%20expungement%2C%20and%20health%20care.%20When%20you%20visit%20the%20One%20Stop%20you%20can%20expect%20to%20learn%20more%20about%20about%20resources%20to%20help%20you%20move%20forward%20and%20set%20up%20an%20appointment%20with%20a%20provider%20to%20begin%20the%20intake%20process%2C%20resolve%20issues%20or%20meet%20service%20related%20conditions%20of%20release.",
+"color": "#c636d6",
+"end": "2026-08-28T13:00:00",
+"duration": "03:00",
+"options": ""
+},
+{
+"title": "Reentry One Stop",
+"primary_calendar_name": "Reentry",
+"calendar_displays": [
+"14",
+"5"
+],
+"start": "2026-09-25T10:00:00",
+"url": "https://www.hamiltoncountyohio.gov/government/departments/reentry/one_stop_resource_center.php",
+"location": "Winton Hills Recreation Center (5170 Winneste Ave, Cincinnati, OH 45232)",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "242",
+"id": "242",
+"desc": "%3Cstrong%3EOne%20Stop%20occurs%20at%20a%20different%20location%20on%20the%20last%20Friday%20of%20each%20month%2C%20April-October%2C%20from%2010%20am%20to%201%20pm%20alongside%20the%20513Relief%20Bus%20to%20maximize%20access%20to%20resources.%3C%2Fstrong%3E%3Cbr%20%2F%3E%3Cbr%20%2F%3EYou%20will%20be%20able%20to%20meet%20directly%20with%20service%20providers%20for%20help%20such%20as%20vital%20records%2C%20personal%20identification%2C%20substance%20abuse%20and%20mental%20health%20care%2C%20child%20support%20concerns%2C%20housing%2C%20record%20sealing%20or%20expungement%2C%20and%20health%20care.%20When%20you%20visit%20the%20One%20Stop%20you%20can%20expect%20to%20learn%20more%20about%20about%20resources%20to%20help%20you%20move%20forward%20and%20set%20up%20an%20appointment%20with%20a%20provider%20to%20begin%20the%20intake%20process%2C%20resolve%20issues%20or%20meet%20service%20related%20conditions%20of%20release.",
+"color": "#c636d6",
+"end": "2026-09-25T13:00:00",
+"duration": "03:00",
+"options": ""
+},
+{
+"title": "Reentry One Stop",
+"primary_calendar_name": "Reentry",
+"calendar_displays": [
+"14",
+"5"
+],
+"start": "2026-10-30T10:00:00",
+"url": "https://www.hamiltoncountyohio.gov/government/departments/reentry/one_stop_resource_center.php",
+"location": "Hamilton County Justice Center",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "243",
+"id": "243",
+"desc": "%3Cstrong%3EThe%20Hamilton%20County%20One%20Stop%26nbsp%3B%3C%2Fstrong%3Eeliminates%20barriers%20to%20accessing%20supportive%20services%20for%20all%20Hamilton%20County%20residents%2C%20including%20those%20with%20criminal%20convictions.%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Cstrong%3EOne%20Stop%20occurs%20at%20a%20different%20location%20on%20the%20last%20Friday%20of%20each%20month%2C%20April-October%2C%20from%2010%20am%20to%201%20pm%20alongside%20the%20513Relief%20Bus%20to%20maximize%20access%20to%20resources.%3C%2Fstrong%3E%3Cbr%20%2F%3E%3Cbr%20%2F%3EYou%20will%20be%20able%20to%20meet%20directly%20with%20service%20providers%20for%20help%20such%20as%20vital%20records%2C%20personal%20identification%2C%20substance%20abuse%20and%20mental%20health%20care%2C%20child%20support%20concerns%2C%20housing%2C%20record%20sealing%20or%20expungement%2C%20and%20health%20care.%20When%20you%20visit%20the%20One%20Stop%20you%20can%20expect%20to%20learn%20more%20about%20about%20resources%20to%20help%20you%20move%20forward%20and%20set%20up%20an%20appointment%20with%20a%20provider%20to%20begin%20the%20intake%20process%2C%20resolve%20issues%20or%20meet%20service%20related%20conditions%20of%20release.",
+"color": "#c636d6",
+"end": "2026-10-30T13:00:00",
+"duration": "03:00",
+"options": ""
+},
+{
+"title": "Small Business Day",
+"primary_calendar_name": "Community Event",
+"calendar_displays": [
+"5"
+],
+"start": "2026-05-18T08:00:00",
+"url": "https://www.eventbrite.com/e/4th-annual-hamilton-county-small-business-day-tickets-1982525503148",
+"location": "Sharonville Convention Center, 11355 Chester Road, Cincinnati, OH 45246",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "245",
+"id": "245",
+"desc": "%3Ch2%3ESmall%20Business%20Day%20Returns%20May%2018%3C%2Fh2%3E%0AHamilton%20County%26rsquo%3Bs%204th%20Annual%20Small%20Business%20Day%20is%20set%20for%20Monday%2C%20May%2018%2C%20from%208%20a.m.to%201%20p.m.%20at%20the%20Sharonville%20Convention%20Center%2C%20bringing%20together%20entrepreneurs%2C%20contractors%2C%20lenders%2C%20and%20business%20experts%20from%20across%20the%20region-and%20it%26rsquo%3Bs%20completely%20free%20to%20attend.%20Attendees%20can%20explore%20the%20Resource%20Zone%20for%20helpful%20tools%20and%20information%2C%20connect%20with%20prime%20contractors%20and%20decision-makers%20in%20the%20Deal%20Zone%2C%20and%20engage%20with%20industry%20experts%20and%20small%20business%20funders%20who%20support%20business%20growth%20in%20Hamilton%20County.%20The%20event%20is%20designed%20to%20bring%20all%20resources%20together%20in%20one%20place%20to%20help%20small%20businesses%20start%2C%20grow%2C%20and%20succeed%20in%20Hamilton%20County%21%20%3Ca%20href%3D%22https%3A%2F%2Fwww.eventbrite.com%2Fe%2F4th-annual-hamilton-county-small-business-day-tickets-1982525503148%3Faff%3Doddtdtcreator%26amp%3Bkeep_tld%3Dtrue%26amp%3Bfbclid%3DIwY2xjawQnxppleHRuA2FlbQIxMABicmlkETFHNVBSV1Y2NUtKNkE5Z1Rzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHufB7vFi_QlO1TADgJRiyX3jLVq2KEVG4wIBmQQak5cEZUYTlX0HLM3c4i3W_aem_wblOKGj821dyD_G8jeHeuw%22%20target%3D%22_blank%22%3ERSVP%20today%20on%20Eventbright%3C%2Fa%3E.",
+"color": "#c536d6",
+"end": "2026-05-18T13:00:00",
+"duration": "05:00",
+"options": ""
+},
+{
+"title": "America 250-Ohio Hamilton County Committee",
+"primary_calendar_name": "America 250",
+"calendar_displays": [
+"12",
+"3"
+],
+"start": "2026-05-19T13:00:00",
+"url": "",
+"location": "Hamilton County Law Library, Hamilton County Courthouse, 1000 Main St., 6th Floor, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "246",
+"id": "246",
+"desc": "%3Cbr%20%2F%3EPlease%20see%20the%20%3Ca%20href%3D%22business_detail_T22_R6.php%22%20target%3D%22_blank%22%3EAmerica%20250-Ohio%20Hamilton%20County%20Committee%20page%3C%2Fa%3E%20for%20more%20information.",
+"color": "#e61141",
+"end": "2026-05-19T14:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Healthy Aging Summit",
+"primary_calendar_name": "Community Event",
+"calendar_displays": [
+"5"
+],
+"start": "2026-05-27T10:00:00",
+"url": "",
+"location": "Word of Deliverance Ministries, 693 Fresno Road, Cincinnati, OH 45240",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "248",
+"id": "248",
+"desc": "%3Cbr%20%2F%3E%0A%3Cp%3E%3Cstrong%3EWhy%3C%2Fstrong%3E%3A%20Kickoff%20to%20the%20Hamilton%20County%20Utility%20Assistance%20Program%20and%20a%20celebration%20of%20Older%20Americans%20Month.%3C%2Fp%3E%0A%3Cp%3E%3Cstrong%3EWho%3C%2Fstrong%3E%20For%3A%20Hamilton%20county%20older%20adults%3C%2Fp%3E%0A%3Cp%3E%3Cstrong%3EWhere%3C%2Fstrong%3E%3A%20Word%20of%20Deliverance%20Ministries%2C%20693%20Fresno%20Road%2C%20Cincinnati%2C%20OH%2045240%26nbsp%3B%3C%2Fp%3E%0A%3Cp%3E%3Cstrong%3EWhat%3C%2Fstrong%3E%3A%20Health%20Aging%20Summit%2C%20Wednesday%2C%20May%2027%2C%2010%20a.m.%20to%202%20p.m.%3C%2Fp%3E%0A%3Cp%3E%26nbsp%3B%3C%2Fp%3E%0A%3Cp%3E%3Cstrong%3EState%20of%20Aging%20%2810%20am%29%3C%2Fstrong%3E%3C%2Fp%3E%0A%3Cp%3EJoin%20local%20experts%20for%20an%20engaging%20conversation%20about%20aging%20services%20and%20resources%20available%20in%20Hamilton%20County.%20Ask%20questions%2C%20connect%20with%20professionals%2C%20and%20discover%20valuable%20support%20for%20older%20adults.%20Celebrate%20Older%20Americans%20Month%20and%20be%20part%20of%20the%20launch%20of%20the%20Hamilton%20County%20Utility%20Assistance%20Program%21%3C%2Fp%3E%0A%3Cp%3E%26nbsp%3B%3C%2Fp%3E%0A%3Cp%3E%3Cstrong%3E513Relief%20Bus%20Resource%20Fair%20and%20Education%20event%20%2811%20am%20%26ndash%3B%202%20pm%29%20%3C%2Fstrong%3E%3C%2Fp%3E%0A%3Cp%3E50%2B%20partners%20sharing%20resources%20and%20education%3C%2Fp%3E%0A%3Cp%3EFree%20health%20screenings%3C%2Fp%3E%0A%3Cp%3EInteractive%20workshops%3A%20Fall%20Prevention%2C%20Estate%20Planning%20and%20Tai%20Chi%3C%2Fp%3E%0A%3Cp%3EFree%20lunch%3C%2Fp%3E%0A%3Cp%3ERaffles%3C%2Fp%3E%0A%3Cp%3E%26nbsp%3B%3C%2Fp%3E%0A%3Cp%3E%3Cstrong%3EUtility%20Assistance%20Program%3C%2Fstrong%3E%3C%2Fp%3E%0A%3Cp%3EApplications%20for%20Duke%20bill%20support%20open%20May%2027%20at%20the%20event%20%28Duke%20account%20number%20required%3B%202025%20recipients%20are%20not%20eligible%29.%3C%2Fp%3E%0A%3Cp%3E%26nbsp%3B%3C%2Fp%3E%0AMore%20info%20at%20this%20link%3A%20%3Ca%20rel%3D%22noopener%22%20href%3D%22https%3A%2F%2Fgcc02.safelinks.protection.outlook.com%2F%3Furl%3Dhttps%253A%252F%252Furldefense.proofpoint.com%252Fv2%252Furl%253Fu%253Dhttps-3A__www.help4seniors.org_news_513relief-2Dbus-2Dhealthy-2Daging-2Dsummit-2Dset-2Dfor-2Dmay-2D27_%2526d%253DDwMFAg%2526c%253DeuGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM%2526r%253DoZQkgVtjomwylMXhRoCriAuW7vUs2gKJlrA54qhIhNE%2526m%253DuJzJqRBhZtMflHAo_x2ZqC4tjN5RoaOgEkUQSdwXyiwRBorMnJnepXY2wnRo_72T%2526s%253DwsxwUAcbg28Oe2xyMzmaquZD_sTDYQ38NzuEBON9S9U%2526e%253D%26amp%3Bdata%3D05%257C02%257CJim.Tinker%2540jfs.ohio.gov%257C90353a778a3e46345e1008de9caca8ad%257C50f8fcc494d84f0784eb36ed57c7c8a2%257C0%257C0%257C639120462557515865%257CUnknown%257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%253D%253D%257C0%257C%257C%257C%26amp%3Bsdata%3D7jF1PgcD4uc%252Br%252FxFeuaTfv98cXXYP9HDGIZjJoSHVzA%253D%26amp%3Breserved%3D0%22%20target%3D%22_blank%22%3EHamilton%20County%20513Relief%20Bus%20presents%20Healthy%20Aging%20Summit%2C%20May%2027%3C%2Fa%3E%26nbsp%3B",
+"color": "#c536d6",
+"end": "2026-05-27T14:00:00",
+"duration": "04:00",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2026-05-21T10:00:00",
+"url": "",
+"location": "Hamilton County Central Campus 1701 Patricia McCollum Way Cincinnati, Ohio 45237",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "249",
+"id": "249",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Hamilton%20County%20Central%20Campus%2C%201701%20Patricia%20McCollum%20Way%2C%20Cincinnati%2C%20Ohio%2045237%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2026-05-21T11:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2026-06-18T13:00:00",
+"url": "",
+"location": "Todd B. Portune Center for County Government, Room 605, 138 E. Court Street, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "250",
+"id": "250",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Todd%20B.%20Portune%20Center%20of%20County%20Government%2C%3Cbr%20%2F%3E138%20East%20Court%20St.%206th%20Floor%2C%20Cincinnati%2C%20OH%2045202%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2026-06-18T14:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2026-07-16T18:00:00",
+"url": "",
+"location": "Hamilton County Central Campus 1701 Patricia McCollum Way Cincinnati, Ohio 45237",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "253",
+"id": "253",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Hamilton%20County%20Central%20Campus%2C%201701%20Patricia%20McCollum%20Way%2C%20Cincinnati%2C%20Ohio%2045237%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2026-07-16T19:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "BoCC Special Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1",
+"2"
+],
+"start": "2026-08-03T10:00:00",
+"url": "",
+"location": "Todd B. Portune Center of County Government, 138 East Court St. Room 605, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "254",
+"id": "254",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3E%3C%2Fstrong%3ENote%3A%20This%20Special%20Meeting%20to%20discuss%20and%20vote%20on%20placing%20a%20Children%20Services%20Levy%20on%20the%20November%20ballot.%3Cstrong%3E%3Cbr%20%2F%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Todd%20B.%20Portune%20Center%20of%20County%20Government%2C%3Cbr%20%2F%3E138%20East%20Court%20St.%20Room%20605%2C%20Cincinnati%2C%20OH%2045202%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2026-08-03T11:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Canceled - BoCC Staff Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2026-08-11T18:00:00",
+"url": "",
+"location": "Hamilton County Central Campus 1701 Patricia McCollum Way Cincinnati, Ohio 45237",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "255",
+"id": "255",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Hamilton%20County%20Central%20Campus%2C%201701%20Patricia%20McCollum%20Way%2C%20Cincinnati%2C%20Ohio%2045237%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2026-08-11T19:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2026-09-10T18:00:00",
+"url": "",
+"location": "Hamilton County Central Campus 1701 Patricia McCollum Way Cincinnati, Ohio 45237",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "256",
+"id": "256",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Hamilton%20County%20Central%20Campus%2C%201701%20Patricia%20McCollum%20Way%2C%20Cincinnati%2C%20Ohio%2045237%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2026-09-10T19:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Commissioner Meeting",
+"primary_calendar_name": "Commission Meetings",
+"calendar_displays": [
+"1"
+],
+"start": "2026-08-13T10:00:00",
+"url": "",
+"location": "Todd B. Portune Center for County Government, Room 605, 138 E. Court Street, Cincinnati, OH 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "257",
+"id": "257",
+"desc": "%3Cstrong%3E%3Cbr%20%2F%3EAddress%3C%2Fstrong%3E%20-%20Todd%20B.%20Portune%20Center%20of%20County%20Government%2C%3Cbr%20%2F%3E138%20East%20Court%20St.%206th%20Floor%2C%20Cincinnati%2C%20OH%2045202%3Cbr%20%2F%3E%3Cbr%20%2F%3E%3Ca%20href%3D%22https%3A%2F%2Fhcjfsonbase.jfs.hamilton-co.org%2FOnBaseAgendaOnline%22%20target%3D%22_blank%22%3EAgenda%20%26amp%3B%20Minutes%3C%2Fa%3E",
+"color": "#009dff",
+"end": "2026-08-13T11:30:00",
+"duration": "01:30",
+"options": ""
+},
+{
+"title": "Tax Levy Review Committee",
+"primary_calendar_name": "Boards & Commissions",
+"calendar_displays": [
+"3"
+],
+"start": "2026-05-18T18:00:00",
+"url": "",
+"location": "Hamilton County Central Campus 1701 Patricia McCollum Way Cincinnati, Ohio 45237",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "258",
+"id": "258",
+"desc": "%3Cbr%20%2F%3EPlease%20see%20the%20%3Ca%20href%3D%22business_detail_T22_R37.php%22%20target%3D%22_blank%22%3ETax%20Levy%20Review%20Committee%20page%3C%2Fa%3E%20for%20more%20information.",
+"color": "#663ef2",
+"end": "2026-05-18T19:00:00",
+"duration": "01:00",
+"options": ""
+},
+{
+"title": "Public Hearing - Childrens Services Levy",
+"primary_calendar_name": "Public Hearings",
+"calendar_displays": [
+"2"
+],
+"start": "2026-06-18T13:15:00",
+"url": "",
+"location": "Todd B. Portune Center for County Government, 138 E. Court Street - Room 605, Cincinnati, Ohio 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "259",
+"id": "259",
+"desc": "The%20Board%20of%20County%20Commissioners%2C%20Hamilton%20County%2C%20Ohio%20has%20scheduled%20the%20following%20Public%20Hearings%20to%20discuss%20the%20Hamilton%20County%20Childrens%20Services%20Levy.%26nbsp%3B%3Cbr%20%2F%3E%3Cbr%20%2F%3EFor%20more%20information%2C%20please%20see%20the%20%3Ca%20href%3D%22..%2Fgovernment%2Fcounty_commissioners%2Fpublic_hearings.php%22%20target%3D%22_blank%22%3EPublic%20Hearings%20page%3C%2Fa%3E.",
+"color": "#d61d46",
+"end": "2026-06-18T13:30:00",
+"duration": "00:15",
+"options": ""
+},
+{
+"title": "Public Hearing - Childrens Services Levy",
+"primary_calendar_name": "Public Hearings",
+"calendar_displays": [
+"2"
+],
+"start": "2026-07-14T10:15:00",
+"url": "",
+"location": "Todd B. Portune Center for County Government, 138 E. Court Street - Room 605, Cincinnati, Ohio 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "260",
+"id": "260",
+"desc": "The%20Board%20of%20County%20Commissioners%2C%20Hamilton%20County%2C%20Ohio%20has%20scheduled%20the%20following%20Public%20Hearings%20to%20discuss%20the%20Hamilton%20County%20Childrens%20Services%20Levy.%26nbsp%3B%3Cbr%20%2F%3E%3Cbr%20%2F%3EFor%20more%20information%2C%20please%20see%20the%20%3Ca%20href%3D%22..%2Fgovernment%2Fcounty_commissioners%2Fpublic_hearings.php%22%20target%3D%22_blank%22%3EPublic%20Hearings%20page%3C%2Fa%3E.",
+"color": "#d61d46",
+"end": "2026-07-14T10:30:00",
+"duration": "00:15",
+"options": ""
+},
+{
+"title": "Public Hearing - Childrens Services Levy",
+"primary_calendar_name": "Public Hearings",
+"calendar_displays": [
+"2"
+],
+"start": "2026-07-16T18:15:00",
+"url": "",
+"location": "Hamilton County Central Campus, 1701 Patricia McCollum Way, Cincinnati, Ohio 45237",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "261",
+"id": "261",
+"desc": "The%20Board%20of%20County%20Commissioners%2C%20Hamilton%20County%2C%20Ohio%20has%20scheduled%20the%20following%20Public%20Hearings%20to%20discuss%20the%20Hamilton%20County%20Childrens%20Services%20Levy.%26nbsp%3B%3Cbr%20%2F%3E%3Cbr%20%2F%3EFor%20more%20information%2C%20please%20see%20the%20%3Ca%20href%3D%22..%2Fgovernment%2Fcounty_commissioners%2Fpublic_hearings.php%22%20target%3D%22_blank%22%3EPublic%20Hearings%20page%3C%2Fa%3E.",
+"color": "#d61d46",
+"end": "2026-07-16T18:30:00",
+"duration": "00:15",
+"options": ""
+},
+{
+"title": "Public Hearing - Hospital Commission",
+"primary_calendar_name": "Public Hearings",
+"calendar_displays": [
+"2"
+],
+"start": "2026-08-25T08:30:00",
+"url": "",
+"location": "255 East 5th Street, Suite 1900, Cincinnati, Ohio 45202",
+"image": "<img src=\"/revize/plugins/_editforms_/v2/images/placeholder.png\" alt=\"Revize update image\"/>",
+"rid": "263",
+"id": "263",
+"desc": "The%20Hamilton%20County%20Hospital%20Commission%20will%20be%20holding%20a%20public%20hearing%20regarding%20the%20issuance%20of%20Healthcare%20Facilities%20Improvement%20and%20Refunding%20Revenue%20Bonds%20by%20Cincinnati%20Children%27s%20Hospital%20Medical%20Center.%26nbsp%3B%3Cbr%20%2F%3E%3Cbr%20%2F%3EFor%20more%20information%2C%20please%20see%20the%20%3Ca%20target%3D%22_blank%22%20href%3D%22.%2FDocuments%2FGovernment%2FCounty%20Commissioners%2FPublic%20Hearings%2F2026%2FCCHMC_Notice-082526.pdf%22%3ENotice%20of%20Public%20Hearing%3C%2Fa%3E.",
+"color": "#d61d46",
+"end": "2026-08-25T09:00:00",
+"duration": "00:30",
+"options": ""
+}
+]
