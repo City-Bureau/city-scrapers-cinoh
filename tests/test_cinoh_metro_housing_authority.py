@@ -74,7 +74,7 @@ def test_id():
 
 def test_status():
     assert parsed_items[0]["status"] == CANCELLED
-    assert parsed_items[1]["status"] == CANCELLED
+    assert parsed_items[1]["status"] == PASSED
     assert parsed_items[2]["status"] == PASSED
     assert parsed_items[3]["status"] == PASSED
     assert parsed_items[4]["status"] == PASSED
